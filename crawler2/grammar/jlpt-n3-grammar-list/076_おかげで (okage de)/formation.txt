@@ -1,0 +1,4 @@
+Verb-casual + おかげで
+いadjective + おかげで
+なadjective + な/だった + おかげで
+Noun + のおかげで

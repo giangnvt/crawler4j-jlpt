@@ -1,0 +1,4 @@
+Noun + のため（に）
+Verb-casual + ため（に）
+いadj + ため（に）
+なadj + なため（に）

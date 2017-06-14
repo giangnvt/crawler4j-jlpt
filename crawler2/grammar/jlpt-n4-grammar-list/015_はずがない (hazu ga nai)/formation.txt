@@ -1,0 +1,4 @@
+Verb-casual + はずがない
+Noun + のはずがない
+いadj + はずがない
+なadj + なはずがない

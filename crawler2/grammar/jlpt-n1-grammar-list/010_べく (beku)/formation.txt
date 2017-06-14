@@ -1,0 +1,2 @@
+Verb-dictionary form + べく
+Exception: する -> するべく/すべく

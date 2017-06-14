@@ -1,0 +1,4 @@
+Verb-casual + ものの
+Noun + であるものの
+いadj + ものの
+なadj + なものの

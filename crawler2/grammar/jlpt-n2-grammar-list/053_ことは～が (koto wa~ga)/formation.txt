@@ -1,0 +1,3 @@
+Verb-casual + ことは + Verb-casual + が
+いadj + ことは + (same) いadj + が
+なadj + ことは + (same) なadj + が

@@ -1,0 +1,4 @@
+Verb-casual + し
+いadj + し
+なadj + だし
+Noun + だし

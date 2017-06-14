@@ -1,0 +1,4 @@
+Verb-stem + ながら（も）
+Verb-てform + いながら（も）
+Noun + ながら（も）
+Adjective + ながら（も）

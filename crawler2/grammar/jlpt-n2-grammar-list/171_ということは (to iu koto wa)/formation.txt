@@ -1,0 +1,1 @@
+Phrase 1 + ということは + phrase 2

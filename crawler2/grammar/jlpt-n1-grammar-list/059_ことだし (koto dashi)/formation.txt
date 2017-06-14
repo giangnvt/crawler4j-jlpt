@@ -1,0 +1,4 @@
+Verb-casual + ことだし
+Noun + のことだし
+いadj + ことだし
+なadj + なことだし

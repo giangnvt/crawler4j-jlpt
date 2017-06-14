@@ -1,0 +1,2 @@
+Noun 1 + と + Noun 2 + とどちらが
+Verb phrase 1 + と + Verb phrase 2 + とどちらが

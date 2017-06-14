@@ -1,0 +1,4 @@
+Verb-ますstem + そうだ
+いadjective (remove い) + そうだ
+なadjective + そうだ
+***Exception: よい => よさそう

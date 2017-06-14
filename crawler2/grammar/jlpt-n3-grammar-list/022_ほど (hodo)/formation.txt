@@ -1,0 +1,4 @@
+Verb-casual + ほど
+Noun + ほど
+いadj + ほど
+なadj + なほど

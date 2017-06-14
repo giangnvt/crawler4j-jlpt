@@ -1,0 +1,4 @@
+Noun + っぽい
+Verb-stem + っぽい
+いadj (-い) + っぽい
+なadj + っぽい

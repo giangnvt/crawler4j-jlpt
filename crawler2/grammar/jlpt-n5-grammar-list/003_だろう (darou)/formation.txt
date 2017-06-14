@@ -1,0 +1,4 @@
+Verb-casual + だろう
+い-adjective + だろう
+な-adjective + だろう
+Noun + だろう

@@ -1,0 +1,4 @@
+Verb-casual + ものだから
+Noun + なものだから
+いadj + ものだから
+なadj + なものだから

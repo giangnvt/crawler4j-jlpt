@@ -1,0 +1,5 @@
+まるで + Verb-casual + ようだ
+まるで + Noun + （の）ようだ
+まるで + いadj + ようだ
+まるで + なadj + なようだ
+まるで can also be used with かのよう.

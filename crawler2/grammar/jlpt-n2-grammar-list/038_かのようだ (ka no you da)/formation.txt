@@ -1,0 +1,5 @@
+Verb-casual + かのようだ
+Verb-casual + かのように + Verb
+Verb-casual + かのような + Noun
+Noun + であるかのようだ
+なadj + であるかのようだ

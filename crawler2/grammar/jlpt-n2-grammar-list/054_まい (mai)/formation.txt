@@ -1,0 +1,4 @@
+Verb-dictionary form + まい
+Verb-ますform + まい
+Verb-ますstem + まい
+Exception: する => すまい

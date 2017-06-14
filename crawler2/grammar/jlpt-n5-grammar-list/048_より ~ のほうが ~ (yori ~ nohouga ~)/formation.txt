@@ -1,0 +1,4 @@
+Noun 1 より　Noun 2 の方が　adjective
+Verb-phrase 1 より　V-phrase 2 方が　adjective
+い-adjective 1 より　い-adjective 2 方が　adjective
+な-adjective 1 より　い-adjective 2 な方が　adjective

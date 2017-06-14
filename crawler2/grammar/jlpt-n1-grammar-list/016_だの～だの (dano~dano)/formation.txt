@@ -1,0 +1,4 @@
+Verb-casual + だの + Verb-casual + だの
+Noun （だった） + だの + Noun （だった） + だの
+いadj + だの + いadj + だの
+なadj （だった） + だの + なadj （だった） + だの

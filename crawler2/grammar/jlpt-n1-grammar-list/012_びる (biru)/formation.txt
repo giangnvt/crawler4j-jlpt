@@ -1,0 +1,3 @@
+Noun/いadj（－い） + びる/びて
+Noun/いadj（－い） + びた + Noun
+Exception: 古い -> 古びた; 悪い -> 悪びれる

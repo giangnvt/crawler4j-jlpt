@@ -1,0 +1,4 @@
+Verb-casual + そうだ
+Noun + だそうだ
+いadj + そうだ
+なadj + だそうだ

@@ -1,0 +1,1 @@
+Phrase 1 + そうすると + phrase 2

@@ -1,0 +1,4 @@
+Verb-casual + わりに
+いadj + わりに
+なadj + なわりに
+Noun + のわりに

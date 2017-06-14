@@ -1,0 +1,4 @@
+およそ + Verb-ないform
+およそ + Noun
+およそ + いadj
+およそ + なadj

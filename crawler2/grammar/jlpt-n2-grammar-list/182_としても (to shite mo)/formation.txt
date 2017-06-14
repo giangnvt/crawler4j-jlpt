@@ -1,0 +1,4 @@
+Verb-casual + としても
+Noun + だとしても
+いadj + としても
+なadj + だとしても

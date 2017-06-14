@@ -1,0 +1,2 @@
+Noun 1 + ほど + Noun 2 + はない
+Noun 1 + は　+ Noun 2 + ほど　＋　adj-ないform

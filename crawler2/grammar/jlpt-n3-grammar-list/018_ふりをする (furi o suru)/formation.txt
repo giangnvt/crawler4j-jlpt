@@ -1,0 +1,4 @@
+Verb-casual + ふりをする
+Noun + のふりをする
+いadj + ふりをする
+なadj + なふりをする

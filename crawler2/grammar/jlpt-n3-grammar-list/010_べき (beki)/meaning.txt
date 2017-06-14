@@ -1,0 +1,2 @@
+must do, should do
+Exception: する => すべき/するべき

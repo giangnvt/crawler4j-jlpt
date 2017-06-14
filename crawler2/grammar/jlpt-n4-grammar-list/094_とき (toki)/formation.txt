@@ -1,0 +1,4 @@
+Verb-casual + 時
+Noun + の時/だった時
+いadjective + 時
+なadjective + な時/だった時

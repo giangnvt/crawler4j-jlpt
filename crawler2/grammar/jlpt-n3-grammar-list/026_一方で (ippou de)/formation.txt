@@ -1,0 +1,6 @@
+Verb-dictionary form + 一方（で）
+Verb-casual, past + 一方（で）
+Noun + である一方（で）
+いadj + 一方（で）
+なadj + である一方（で）
+Phrase 1 + 一方で/その一方で + Phrase 2

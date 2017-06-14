@@ -1,0 +1,4 @@
+Noun1 + も + Verb-ば + Noun2 + も + Verb
+Noun1 + も + Nounなら + Noun2 + も + Noun + だ
+Noun1 + も + いadj-ければ + Noun2 + も + いadj
+Noun1 + も + なadj-なら + Noun2 + も + なadj + だ

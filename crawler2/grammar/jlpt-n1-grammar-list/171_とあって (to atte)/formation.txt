@@ -1,0 +1,4 @@
+Verb-casual + とあって
+Noun + とあって
+いadj + とあって
+なadj + とあって

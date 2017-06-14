@@ -1,0 +1,1 @@
+Phrase 1 + その結果 + phrase 2

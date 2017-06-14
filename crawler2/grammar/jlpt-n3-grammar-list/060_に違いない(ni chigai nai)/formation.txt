@@ -1,0 +1,4 @@
+Noun + に違いない
+Verb-casual + に違いない
+なadj + に違いない
+いadj + に違いない

@@ -1,0 +1,4 @@
+Verb-casual 1 + にしても + Verb-casual 2 + にしても
+Noun 1 + にしても + Noun 2 + にしても
+いadj 1 + にしても + いadj 2 + にしても
+なadj 1 + にしても + なadj 2 + にしても

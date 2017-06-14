@@ -1,0 +1,4 @@
+Verb-casual + くらい/ぐらい
+いadjective + くらい/ぐらい
+なadjective + なくらい/ぐらい
+Noun + くらい/ぐらい

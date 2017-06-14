@@ -1,0 +1,2 @@
+どんな/あんな/こんな + ふうに + Verb
+Verb-casual + ふうに + Verb

@@ -1,0 +1,4 @@
+Verb-casual + だけ
+いadj + だけ
+なadj + だけ
+Noun + だけ

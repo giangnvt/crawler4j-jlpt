@@ -1,0 +1,5 @@
+Verb-casual + とはいえ
+Noun + とはいえ
+いadj + とはいえ
+なadj + とはいえ
+とはいえ + Phrase

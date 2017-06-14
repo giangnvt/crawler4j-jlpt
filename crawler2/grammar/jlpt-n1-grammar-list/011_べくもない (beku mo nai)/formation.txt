@@ -1,0 +1,2 @@
+Verb-dictionary form + べくもない
+Exception: する -> すべくもない

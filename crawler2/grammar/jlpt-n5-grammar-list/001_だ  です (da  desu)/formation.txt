@@ -1,0 +1,4 @@
+Present affirmative: だ (plain); です (polite)
+Present negative: じゃない/ではない (plain); じゃありません/ではありません (polite)
+Past affirmative: だった (plain); でした (polite)
+Past negative: じゃなかった/ではなかった (plain); ではありませんでした/じゃありませんでした/じゃなかったです/ではなかったです (polite)

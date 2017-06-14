@@ -1,0 +1,4 @@
+Verb-casual + 以上に
+以上の + Noun
+Noun + 以上に
+なadj + 以上に

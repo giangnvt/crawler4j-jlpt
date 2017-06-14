@@ -1,0 +1,3 @@
+Verb-ないform（－ない） + んがため（に）
+Verb-ないform（－ない） + んがための + Noun
+Exception : する -> せん

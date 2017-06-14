@@ -1,0 +1,4 @@
+Verb-casual + なら
+Noun + なら
+いadj + なら
+なadj + なら

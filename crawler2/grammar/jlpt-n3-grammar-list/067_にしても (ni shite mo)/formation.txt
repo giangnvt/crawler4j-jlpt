@@ -1,0 +1,4 @@
+Noun + にしても
+Verb-casual + にしても
+なadj + にしても
+いadj (remove い) + くしても

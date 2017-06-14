@@ -1,0 +1,4 @@
+いくら + Verb-てform + も
+いくら + Noun + でも
+いくら + いadj (remove い) + くても
+いくら + なadj + でも

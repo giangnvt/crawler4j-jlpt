@@ -1,0 +1,3 @@
+Verb-volitional + うが + Verb-dictionary form + まいが
+Verb-volitional + うと + Verb-dictionary form + まいと
+Exceptions: する -> しまい; くる -> こまい

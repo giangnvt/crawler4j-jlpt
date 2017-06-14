@@ -1,0 +1,4 @@
+Verb-casual + んだって
+Noun + なんだって
+いadj + んだって
+なadj + なんだって

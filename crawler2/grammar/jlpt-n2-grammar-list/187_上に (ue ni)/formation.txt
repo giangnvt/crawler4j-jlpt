@@ -1,0 +1,4 @@
+Verb-casual + 上に
+Noun + の/である + 上に
+いadj + 上に
+なadj + な/である + 上に

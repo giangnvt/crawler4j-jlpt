@@ -1,0 +1,2 @@
+Verb nominalizer
+こと is a nominalizer that turns a verb into a noun.

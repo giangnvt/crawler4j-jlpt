@@ -1,0 +1,4 @@
+Verb-casual + だけに
+Noun + （である）だけに
+いadj + だけに
+なadj + だけに

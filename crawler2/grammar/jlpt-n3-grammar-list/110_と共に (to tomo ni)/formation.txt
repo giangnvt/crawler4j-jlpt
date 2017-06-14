@@ -1,0 +1,4 @@
+Verb-dict.form + と共に
+Noun + と共に
+いadj + と共に
+なadj + であると共に

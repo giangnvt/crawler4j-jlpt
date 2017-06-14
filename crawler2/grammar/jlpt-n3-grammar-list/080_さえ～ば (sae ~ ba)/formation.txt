@@ -1,0 +1,5 @@
+Verb-stem + さえすれば
+Verb-てform + さえいれば
+Noun + （で）さえあれば
+いadj (remove い) + くさえあれば
+なadj + に/でさえあれば

@@ -1,0 +1,4 @@
+Verb-casual + ようだ
+いadj + ようだ
+なadj + なようだ
+Noun + のようだ

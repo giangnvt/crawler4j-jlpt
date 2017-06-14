@@ -1,0 +1,4 @@
+Verb-ばconditional + (same) Verb + ほど
+いadj-ばconditional + (same) いadj + ほど
+なadj + ならば + なadj + なほど
+Noun + であれば + Noun + あるほど

@@ -1,0 +1,4 @@
+Verb-casual + こととて
+Verb-ないform （－ない） + ぬこととて
+Noun + のこととて
+なadj + なこととて

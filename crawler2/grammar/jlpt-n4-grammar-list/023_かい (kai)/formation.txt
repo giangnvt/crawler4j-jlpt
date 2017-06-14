@@ -1,0 +1,4 @@
+Verb-casual + かい
+Noun + なのかい
+いadj + かい
+なadj + なのかい

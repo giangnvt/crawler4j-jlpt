@@ -1,0 +1,4 @@
+Noun + みたいに + Verb/Adjective
+Noun + みたいな + Noun
+Verb-casual + みたいに + Verb/Adjective
+Verb-casual + みたいな + Noun

@@ -1,0 +1,5 @@
+Verb-casual + 反面
+Noun + である反面
+いadj + 反面
+なadj + な/である反面
+Phrase 1 + その反面 + Phrase 2

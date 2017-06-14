@@ -1,0 +1,5 @@
+Verb-casual, past + ことか
+Verb-てform + ことか
+Noun + である/だったことか
+いadj + ことか
+なadj + な/だったことか

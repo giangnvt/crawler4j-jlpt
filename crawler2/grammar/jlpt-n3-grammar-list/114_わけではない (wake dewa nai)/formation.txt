@@ -1,0 +1,4 @@
+Verb-casual + わけではない
+いadjective + わけではない
+なadjective + なわけではない
+Noun + であるわけではない

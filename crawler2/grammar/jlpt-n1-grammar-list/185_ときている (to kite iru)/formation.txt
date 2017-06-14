@@ -1,0 +1,4 @@
+Verb-casual + ときている
+Noun + ときている
+いadj + ときている
+なadj + ときている

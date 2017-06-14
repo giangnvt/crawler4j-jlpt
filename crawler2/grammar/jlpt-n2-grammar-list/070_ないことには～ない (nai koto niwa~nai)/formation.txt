@@ -1,0 +1,4 @@
+Verb-ないform + ことには + Verb-ないform
+Noun + でないことには + Verb-ないform
+いadj （－い） + くないことには + Verb-ないform
+なadj + でないことには + Verb-ないform
