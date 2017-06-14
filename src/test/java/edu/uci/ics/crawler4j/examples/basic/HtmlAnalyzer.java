@@ -15,19 +15,46 @@ import java.util.List;
 
 
 public class HtmlAnalyzer {
-    public static final String NEWLINE = "\n";
+	public static final String NEWLINE = "\n";
+
+	static class Option {
+		public Option(String rootDir, boolean rearrangeFlg, boolean overwriteFlg, boolean improveFlg) {
+			super();
+			this.rootDir = rootDir;
+			this.rearrangeFlg = rearrangeFlg;
+			this.overwriteFlg = overwriteFlg;
+			this.improveFlg = improveFlg;
+			
+		}
+
+		String rootDir;
+		boolean rearrangeFlg = false;
+		boolean overwriteFlg = false;
+		boolean improveFlg = false;
+	}
+	
     
 	public static void main (String[] args) throws Exception {
-		HtmlAnalyzer analyzer = new HtmlAnalyzer();
-		String rootFolderStr = "D:\\20.GiangNVT\\Private\\Andori\\_bk_andori\\crawler2\\";
-		rootFolderStr += "grammar\\";
-		File rootFolder = new File(rootFolderStr);
+		//String rootFolderStr = "D:\\20.GiangNVT\\Private\\Andori\\_bk_andori\\crawler2\\";
+		String rootFolderStr = "/Users/apple/Documents/workspace/AndroidStudio/crawler4j-jlpt/crawler2/";
+		Option option = new Option(rootFolderStr, false, false, true);
 		
-		boolean rearrangeFlg = false;
-		boolean overwriteFlg = true;
+		HtmlAnalyzer analyzer = new HtmlAnalyzer();
+		analyzer.execute(option);
+		System.out.println("Done!!!");
+	}
+	
+	
+	public void execute (Option option) throws Exception {
+		String rootDirStr = option.rootDir;
+		rootDirStr += "grammar/";
+		File rootDir = new File(rootDirStr);
+		
+		boolean rearrangeFlg = option.rearrangeFlg;
+		boolean overwriteFlg = option.overwriteFlg;
 
 		if (rearrangeFlg) {
-		    File[] dirLv1s = rootFolder.listFiles();
+		    File[] dirLv1s = rootDir.listFiles();
 		    for (File dirLv1 : dirLv1s) {
 		        if (dirLv1.isDirectory()) {
 		            File[] fileLv2s = dirLv1.listFiles();
@@ -43,7 +70,7 @@ public class HtmlAnalyzer {
 		    }
 		}
 		
-		File[] dirLv1s = rootFolder.listFiles();
+		File[] dirLv1s = rootDir.listFiles();
         for (File dirLv1 : dirLv1s) {
             if (dirLv1.isDirectory()) {
                 File[] dirLv2s = dirLv1.listFiles();
@@ -52,11 +79,10 @@ public class HtmlAnalyzer {
                         if ("_X".equals(dirLv2.getName())) continue;
                         
                         File[] fileLv3s = dirLv2.listFiles();
-                        if (fileLv3s.length > 1 && !overwriteFlg) continue;
+                        //if (fileLv3s.length > 1 && !overwriteFlg) continue;
                         for (File fileLv3 : fileLv3s) {
                             if (fileLv3.isFile() && fileLv3.getName().endsWith(".html")) {
-                                System.out.println("Processing: " + fileLv3.getAbsolutePath());
-                                analyzer.analyze(fileLv3, dirLv2, overwriteFlg); 
+                                analyze(fileLv3, dirLv2, option); 
                             }
                         }
                     }
@@ -69,28 +95,53 @@ public class HtmlAnalyzer {
 	    Undefined, Meaning, Formation, Example
 	}
 
-	public void analyze (File inputHtml, File parentDir, boolean overwriteFlg) throws Exception {
-	    if (!overwriteFlg && new File(parentDir, "OK^^.txt").exists()) {
-	        return;
+	private boolean shouldSkipFolder(File folder) {
+		if (folder == null) return true;
+		File[] files = folder.listFiles();
+		for (File file : files) {
+			if (file.getName().matches("OK.*txt")) {
+				return true;
+			}
+		}
+		return false;
+	}
+	
+	public void analyze (File inputHtml, File parentDir, Option option) throws Exception {
+		if (shouldSkipFolder(parentDir)) {
+			if (option.improveFlg) {
+				
+			}
+			if (!option.overwriteFlg) {
+				System.out.println("--- Skip :" + inputHtml.getAbsolutePath());
+				return;
+			}
+	    } else {
+	    	System.out.println("+++ Analyzing :" + inputHtml.getAbsolutePath());
 	    }
 	    
+		File[] txtFiles = parentDir.listFiles();
+		for (File txtFile : txtFiles) {
+			if (txtFile.getName().matches(".*txt"))
+				txtFile.delete();
+		}
+		
 		Document doc = Jsoup.parse(inputHtml, "UTF-8", "http://japanesetest4you.com/");
-		boolean allOk = false;
+		boolean okFlg = false;
 		int exampleCount = 0;
 		boolean exampleWarning = false;
-		String ngReason = "unknown";
+		String exceptionMsg = "unknown";
 		State state = State.Undefined;
 
+		boolean meaningFound = false;
+		boolean formationFound = false;
+		boolean exampleFound = false;
+		
 		try {
 		    Element content = doc.getElementById("content");
 		    Elements entryTags = content.getElementsByClass("entry");
 		    if (entryTags.size() != 1) {
 		        throw new Exception("more than 1 entry tag");
 		    }
-		    
-//		    boolean meaningFound = false;
-//		    boolean formationFound = false;
-//		    boolean exampleFound = false;
 		    
 		    StringBuilder meaningSb = new StringBuilder();
 		    StringBuilder formationSb = new StringBuilder();
@@ -145,51 +196,15 @@ public class HtmlAnalyzer {
 
 		                switch (state) {
 		                    case Undefined:
-//		                        int meaningHeadIdx = text.indexOf("Meaning:");
-//		                        if (meaningHeadIdx >= 0) {
-//		                            state = State.Meaning;
-//
-//		                            String meaning = text.substring(meaningHeadIdx).trim();
-//		                            if (meaning.length() > 0)
-//		                                meaningSb.append(meaning);
-//		                        } else {
-//		                            throw new Exception ("no meaning");
-//		                        }
 		                        throw new Exception ("unknow start section: [" + tagHeaderText + "]");
 		                        
 		                    case Meaning:
-//		                        int formationHeadIdx = text.indexOf("Formation:");
-//		                        int exampleHeadIdx = text.indexOf("Example sentences:");
-//	                            if (formationHeadIdx >= 0) {
-//	                                state = State.Formation;
-//	                                
-//	                                String formation = text.substring(formationHeadIdx).trim();
-//	                                if (formation.length() > 0)
-//	                                    formationSb.append(formation);
-//	                            } else if (exampleHeadIdx >= 0) {
-//	                                throw new Exception("example before formation");
-//	                            } else {
-//	                                if (meaningSb.length() > 0)
-//	                                    meaningSb.append(NEWLINE);
-//	                                meaningSb.append(text);
-//	                            }
 		                        if (meaningSb.length() > 0)
 		                            meaningSb.append(NEWLINE);
 		                        meaningSb.append(text);
 	                            break;
 	                            
 		                    case Formation:
-//		                        exampleHeadIdx = text.indexOf("Example sentences:");
-//                                if (exampleHeadIdx >= 0) {
-//                                    state = State.Example;
-//                                    
-//                                    String example = text.substring(exampleHeadIdx).trim();
-//                                    exampleSb.append(example);
-//                                } else {
-//                                    if (formationSb.length() > 0)
-//                                        formationSb.append(NEWLINE);
-//                                    formationSb.append(text);
-//                                }
 		                        if (formationSb.length() > 0)
 		                            formationSb.append(NEWLINE);
 		                        formationSb.append(text);
@@ -203,52 +218,62 @@ public class HtmlAnalyzer {
 		                            exampleWarning = true;
 		                        break;
 		                }
-//		                if (text.trim().length() > 0)
-//		                    System.out.println("......" + text);
 		            }
 		        }
 		    }
 		    
 		    if (meaningSb.length() > 0) {
+		    	meaningFound = true;
 		        meaningBw = new BufferedWriter(new FileWriter(new File(parentDir, "meaning.txt")));
 		        meaningBw.write(meaningSb.toString());
 		        meaningBw.close();
 		    } else {
-		        throw new Exception("blank meaning");
+		    	meaningFound = false;
+		        //throw new Exception("blank meaning");
 		    }
 		    
 		    if (formationSb.length() > 0) {
+		    	formationFound = true;
 		        formationBw = new BufferedWriter(new FileWriter(new File(parentDir, "formation.txt")));
 		        formationBw.write(formationSb.toString());
 		        formationBw.close();
 		    } else {
-		        throw new Exception("blank formation");
+		    	formationFound = false;
+		        //throw new Exception("blank formation");
 		    }
 		    
 		    if (exampleSb.length() > 0) {
+		    	exampleFound = true;
 		        exampleBw = new BufferedWriter(new FileWriter(new File(parentDir, "example.txt")));
 		        exampleBw.write(exampleSb.toString());
 		        exampleBw.close();
 		    } else {
-		        throw new Exception("blank example");
+		    	exampleFound = false;
+		        //throw new Exception("blank example");
 		    }
-		    allOk = true;
+		    okFlg = meaningFound || formationFound || exampleFound;
 		} catch (Exception ex) {
-		    ngReason = ex.getMessage();
+			okFlg = false;
+		    exceptionMsg = ex.getMessage();
 		}
 		
-		if (!allOk) {
-		    new File(parentDir, "OK^^.txt").delete();
-		    new File(parentDir, "OKvv.txt").delete();
+		if (!okFlg) {
 		    FileWriter fw = new FileWriter(new File(parentDir, "NG.txt"));
-		    fw.write(ngReason);
+		    fw.write(exceptionMsg);
 		    fw.close();
 		} else {
-		    new File(parentDir, "NG.txt").delete();
+			StringBuilder fileSb = new StringBuilder("OK");
+			if (!meaningFound)
+				fileSb.append("_m");
+			if (!formationFound)
+				fileSb.append("_f");
+			if (!exampleFound)
+				fileSb.append("_e");
 		    if (exampleWarning)
-		        new File(parentDir, "OKvv.txt").createNewFile();
-		    else
-		        new File(parentDir, "OK^^.txt").createNewFile();
+		    	fileSb.append("_ew");
+		    fileSb.append(".txt");
+		    
+		    new File(parentDir, fileSb.toString()).createNewFile();
 		}
 	}
 
