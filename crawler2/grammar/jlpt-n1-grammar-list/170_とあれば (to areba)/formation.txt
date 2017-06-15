@@ -1,0 +1,4 @@
+Verb-casual + とあれば
+Noun + とあれば
+いadj + とあれば
+なadj + とあれば
