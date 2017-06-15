@@ -16,28 +16,26 @@ import java.util.List;
 
 public class HtmlAnalyzer {
 	public static final String NEWLINE = "\n";
+	public static final String EXAMPLE_SEPARATOR = ".................................";
 
 	static class Option {
-		public Option(String rootDir, boolean rearrangeFlg, boolean overwriteFlg, boolean improveFlg) {
+		public Option(String rootDir, boolean overwriteFlg, boolean improveFlg) {
 			super();
 			this.rootDir = rootDir;
-			this.rearrangeFlg = rearrangeFlg;
 			this.overwriteFlg = overwriteFlg;
 			this.improveFlg = improveFlg;
-			
 		}
 
 		String rootDir;
-		boolean rearrangeFlg = false;
 		boolean overwriteFlg = false;
-		boolean improveFlg = false;
+		boolean improveFlg = true;
 	}
 	
     
 	public static void main (String[] args) throws Exception {
-		//String rootFolderStr = "D:\\20.GiangNVT\\Private\\Andori\\_bk_andori\\crawler2\\";
-		String rootFolderStr = "/Users/apple/Documents/workspace/AndroidStudio/crawler4j-jlpt/crawler2/";
-		Option option = new Option(rootFolderStr, false, false, true);
+		String rootFolderStr = "D:/20.GiangNVT/Private/Github/crawler4j-jlpt/crawler2/";
+//		String rootFolderStr = "/Users/apple/Documents/workspace/AndroidStudio/crawler4j-jlpt/crawler2/";
+		Option option = new Option(rootFolderStr, true, true);
 		
 		HtmlAnalyzer analyzer = new HtmlAnalyzer();
 		analyzer.execute(option);
@@ -50,25 +48,22 @@ public class HtmlAnalyzer {
 		rootDirStr += "grammar/";
 		File rootDir = new File(rootDirStr);
 		
-		boolean rearrangeFlg = option.rearrangeFlg;
-		boolean overwriteFlg = option.overwriteFlg;
-
-		if (rearrangeFlg) {
-		    File[] dirLv1s = rootDir.listFiles();
-		    for (File dirLv1 : dirLv1s) {
-		        if (dirLv1.isDirectory()) {
-		            File[] fileLv2s = dirLv1.listFiles();
-		            for (File fileLv2 : fileLv2s) {
-		                if (fileLv2.isFile()) {
-		                    File newDir = new File(fileLv2.getAbsolutePath().replace(".html", ""));
-		                    newDir.mkdirs();
-		                    File newFile = new File(newDir, fileLv2.getName());
-		                    Files.move(fileLv2, newFile);
-		                }
-		            }
-		        }
-		    }
-		}
+//		if (option.rearrangeFlg) {
+//		    File[] dirLv1s = rootDir.listFiles();
+//		    for (File dirLv1 : dirLv1s) {
+//		        if (dirLv1.isDirectory()) {
+//		            File[] fileLv2s = dirLv1.listFiles();
+//		            for (File fileLv2 : fileLv2s) {
+//		                if (fileLv2.isFile()) {
+//		                    File newDir = new File(fileLv2.getAbsolutePath().replace(".html", ""));
+//		                    newDir.mkdirs();
+//		                    File newFile = new File(newDir, fileLv2.getName());
+//		                    Files.move(fileLv2, newFile);
+//		                }
+//		            }
+//		        }
+//		    }
+//		}
 		
 		File[] dirLv1s = rootDir.listFiles();
         for (File dirLv1 : dirLv1s) {
@@ -94,29 +89,46 @@ public class HtmlAnalyzer {
 	enum State {
 	    Undefined, Meaning, Formation, Example
 	}
+	enum FolderState {
+	    OK, Warning, NG
+	}
 
-	private boolean shouldSkipFolder(File folder) {
-		if (folder == null) return true;
+	private FolderState checkFolderState(File folder) {
+		if (folder == null) return FolderState.OK;
 		File[] files = folder.listFiles();
 		for (File file : files) {
-			if (file.getName().matches("OK.*txt")) {
-				return true;
+		    if (file.getName().equals("OK.txt")) {
+		        return FolderState.OK;
+		    } else if (file.getName().matches("OK.*txt")) {
+				return FolderState.Warning;
 			}
 		}
-		return false;
+		return FolderState.NG;
 	}
 	
 	public void analyze (File inputHtml, File parentDir, Option option) throws Exception {
-		if (shouldSkipFolder(parentDir)) {
-			if (option.improveFlg) {
-				
-			}
-			if (!option.overwriteFlg) {
-				System.out.println("--- Skip :" + inputHtml.getAbsolutePath());
-				return;
-			}
+	    FolderState folderState = checkFolderState(parentDir);
+		if (folderState == FolderState.NG) {
+		    System.out.println("+++ Analyzing :" + inputHtml.getAbsolutePath());
+	    } else if (folderState == FolderState.Warning) {
+	        if (option.improveFlg) {
+	            System.out.println("### Improve :" + inputHtml.getAbsolutePath());
+	        } else if (option.overwriteFlg) {
+                System.out.println("!!! Overwrite :" + inputHtml.getAbsolutePath());
+	        } else {
+	            //System.out.println("--- Skip :" + inputHtml.getAbsolutePath());
+	            return;
+	        }
+	    } else if (folderState == FolderState.OK) {
+	        if (option.overwriteFlg) {
+	            System.out.println("!!! Overwrite :" + inputHtml.getAbsolutePath());
+	        } else {
+	            //System.out.println("--- Skip :" + inputHtml.getAbsolutePath());
+	            return;
+	        }
 	    } else {
-	    	System.out.println("+++ Analyzing :" + inputHtml.getAbsolutePath());
+	        //System.out.println("--- Skip :" + inputHtml.getAbsolutePath());
+	        return;
 	    }
 	    
 		File[] txtFiles = parentDir.listFiles();
@@ -179,13 +191,13 @@ public class HtmlAnalyzer {
 		            } else if (tagHeaderText.startsWith("Example")) {
 		                state = State.Example;
 		            }
-		            
 		            List<TextNode> textNodeList = pTag.textNodes();
-		            if (textNodeList.size() == 0) continue;
+		            if (textNodeList.size() == 0
+		                    || "&nbsp;".equals(pTag.html().trim())) continue;
 		            
 		            if (state == State.Example && exampleSb.length() > 0) {
 		                // New example pairs
-		                exampleSb.append(NEWLINE).append(NEWLINE);
+		                exampleSb.append(NEWLINE).append(EXAMPLE_SEPARATOR);
 		            }
 		            
 		            for (TextNode textNode : textNodeList) {
@@ -270,7 +282,7 @@ public class HtmlAnalyzer {
 			if (!exampleFound)
 				fileSb.append("_e");
 		    if (exampleWarning)
-		    	fileSb.append("_ew");
+		    	fileSb.append("_we");
 		    fileSb.append(".txt");
 		    
 		    new File(parentDir, fileSb.toString()).createNewFile();
