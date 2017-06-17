@@ -1,72 +1,53 @@
 このアパートは狭いばかりでなく、暗いです。
 This apartment is not only small but also dark.
-kono apaato wa semai bakari denaku, kurai desu.
 .................................
 彼は漢字が書けないばかりか、平仮名も片仮名も書けない。
 He can’t even write hiragana or katakana, let alone the Kanji.
-kare wa kanji ga kakenai bakari ka, hiragana mo katakana mo kakenai.
 .................................
 ピーターさんは日本に行くことは、友人ばかりでなく、家族でさえも知りませんでした。
 Both Peter’s friends and family didn’t know that he’d go to Japan.
-piitaa san wa nihon ni iku koto wa, yuujin bakari denaku, kazoku de saemo shirimasen deshita.
 .................................
 わたしは右手ばかりでなく左手でも字が書けます。
 I can use not only my right hand but also my left hand to write.
-watashi wa migite bakari denaku hidarite demo ji ga kakemasu.
 .................................
 このごろ、彼は遅刻が多いばかりか、授業中に居眠りすることもあります。
 Lately he not only goes to school late but also nods off during class.
-kono goro, kare wa chikoku ga ooi bakari ka, jugyouchuu ni inemuri suru koto mo arimasu.
 .................................
 この車は空気を汚さないばかりか、価格が高い。
 This car not only emits polluted air, its price is also high.
-kono kuruma wa kuuki o yogosanai bakari ka, kakaku ga takai.
 .................................
 小林は如才ないセールスマンばかりか、管理人としても一流だ。
 In addition to being a very slick salesman, Kobayashi is also an amazing manager.
-kobayashi wa josai nai seerusuman bakari ka, kanrinin toshite mo ichiryuu da.
 .................................
 彼は揺るぎない愛国者であるばかりか、対立するすべての者にとって恐るべき敵となった。
 He had proven an uncompromising patriot as well as a terrifying enemy to any who stood in opposition.
-kare wa yuruginai aikokusha de aru bakari ka, tairitsu suru subete no mono ni totte osorubeki teki to natta.
 .................................
 大学を卒業したとたん、不快なばかりか、悪くすると身に危険が及びかねない世界に放り込まれた。
 I’d just graduated from college, and suddenly I was thrown into an extremely unpleasant and violent world.
-daigaku o sotsugyou shita totan, fukai na bakari ka, waruku suru to mi ni kiken ga oyobikanenai sekai ni hourikomareta.
 .................................
 入居者は家が荒れることなど気にもかけなかったばかりか、多くの人は家賃さえ払おうとしなかった。
 The tenants not only didn’t care that they were ruining the houses, many of them also didn’t see fit to pay rent.
-nyuukyosha wa ie ga areru koto nado ki ni mo kakenakatta bakari ka, ooku no hito wa yachin sae haraou to shinakatta.
 .................................
 これは市の財政にとって損失であるばかりでなく、市の重要地区に醜い傷を残し、深刻な環境悪化をもたらしていただろう。
 Beyond the tax loss, this would be a visual wound and a serious depressant for one of the city’s prime areas.
-kore wa shi no zaisei ni totte sonshitsu de aru bakari de naku, shi no juuyou chiku ni minikui kizu o nokoshi, shinkoku na kankyou akka o motarashite ita darou.
 .................................
 女性に対する機会創出は論理的問題というばかりでなく、アフガニスタンの経済と治安にとっても不可欠だった。
 Creating opportunity for women was not just a moral issue. It was vital to Afghanistan’s economy and security.
-josei ni taisuru kikai soushutsu wa ronriteki mondai to iu bakari de naku, afuganisutan no keizai to chian ni totte mo fukaketsu datta.
 .................................
 この女の子に生まれつきそなわっている、服装へのひたむきな執心ぶりには、痛ましいばかりでなく、どこか滑稽なところがある。
 There is something funny as well as painful in this little girl’s earnest and innate devotion to matters of dress.
-kono onna no ko ni umaretsuki sonawatte iru, fukusou e no hitamuki na shuushin buri ni wa, itamashii bakari de naku, dokoka kokkei na tokoro ga aru.
 .................................
 竹之内は頭が切れ、競争心旺盛であるばかりでなく、最も重要なことは何かをはっきりつかんで経営にのぞんでいる。
 Takenouchi is a very sharp guy and highly competitive, but most of all, he has a sense of how to manage to the bottom line.
-takenouchi wa atama ga kire, kyousoushin ousei de aru bakari de naku, motto mo juuyou na koto wa nanika o hakkiri tsukande keiei ni nozonde iru.
 .................................
 和解と政治決着の必要性はいまも変わっていないばかりか、圧力がこれまで以上に高まっている。
 The need for reconciliation and a political settlement isn’t going away. If anything, it is more pressing than ever.
-wakai to seiji kecchaku no hitsuyousei wa ima mo kawatte inai bakari ka, atsuryoku ga kore made ijou ni takamatte iru.
 .................................
 その顔は高慢さのためにふくれあがって、陰気くさいばかりでなく、しわとなって刻みこまれているようにさえ思われた。
 These features appeared to me not only inflated and darkened, but even furrowed with pride.
-sono kao wa koumansa no tame ni fukureagatte, inkikusai bakari de naku, shiwa to natte kizamikomarete iru you ni sae omowareta.
 .................................
 これは私たちの党ばかりでなく国にとっても決してよいことではない。
 This will not be good for our party or for the country.
-kore wa watashitachi no tou bakari de naku kuni ni totte mo kesshite yoi koto de wa nai.
 .................................
 彼は最低の男や最低の女とつきあって、健康ばかりか財産も台なしにした。
 He ruined his health and his estate among the worst men and the worst women.
-kare wa saitei no otoko ya saitei no onna to tsukiatte, kenkou bakari ka zaisan mo dainashi ni shita.
-***台無しにする (dainashi ni suru): to spoil, to ruin, to destroy
