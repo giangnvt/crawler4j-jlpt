@@ -1,79 +1,59 @@
 田中さんは兄弟の中で上から２番目です。
 Tanaka is the second eldest among his siblings.
-tanaka san wa kyoudai no naka de ue kara nibanme desu.
 .................................
 三つの中で一番大きいボタンを押してください。
 Please push the biggest button of the three.
-mitsu no naka de ichiban ookii botan o oshite kudasai.
 .................................
 今朝、電車の中で足をふまれました。
 Someone stepped on my feet this morning on the train.
-kesa, densha no naka de ashi o fumaremashita.
 .................................
 言語の中で日本語が一番難しいと思う。
 I think Japanese is the most difficult of all languages.
-gengo no naka de nihongo ga ichiban muzukashii to omou.
 .................................
 部屋の中で動物を飼ってはいけません。
 You must not have pets in your room.
-heya no naka de doubutsu o katte wa ikemasen.
 .................................
 笑いが、彼の耳の中で鳴り響いた。
 The laughter was ringing in his ears.
-warai ga, kare no mimi no naka de narihibiita.
 .................................
 辞書は図書館の中で使ってください。
 Please use the dictionary in the library.
-jisho wa toshokan no naka de tsukatte kudasai.
 .................................
 東京に向かう新幹線の中で、ぼんやりと外の風景を眺めながら、僕はずっと自分という人間の成り立ちについて考えていた。
 On the bullet train to Tokyo, I gazed listlessly at the scenery outside and thought about myself—who I was.
-toukyou ni mukau shinkansen no naka de, bonyari to soto no fuukei o nagamenagara, boku wa zutto jibun to iu ningen no naritachi ni tsuite kangaete ita.
 .................................
 今夜、私たちは、わが国がより完璧な合衆国を目指す歩みの中で、一つの節目を迎えました。
 Tonight, we’ve reached a milestone in our nation’s march toward a more perfect Union.
-kon’ya, watashitachi wa, wagakuni ga yori kanpeki na gasshuukoku o mezasu ayumi no naka de, hitotsu no fushime o mukaemashita.
 .................................
 少しは心の中で負けたくないっていう気持ちないか？
 Deep down, don’t you hate to lose?
-sukoshi wa kokoro no naka de maketakunai tte iu kimochi nai ka.
 .................................
 ハリはドラマの中で最も成長する女性です。
 Hari is the most mature woman in the drama.
-hari wa dorama no naka de motto mo seichou suru josei desu.
 .................................
 木村がはじかれたように上体を起こすと、頭のなかで痛みが爆発した。
 Kimura sat bolt upright in bed, pain exploding in his head.
-kimura ga hajikareta you ni joutai o okosu to, atama no naka de itami ga bakuhatsu shita.
 .................................
 男性の帽子は、ほかのすべてがベージュと緑の情景の中で、小さな焦点を形成しています。
 The man’s hat creates a tiny point of focus in this otherwise beige, green scene.
-dansei no boushi, hoka no subete ga beeju to midori no joukei no naka de, chiisa na shouten o keisei shite imasu.
 .................................
 彼女は依然として、私がこれまで知る中で最も優れた変革の人です。
 She is still the best change maker I have ever known.
-kanojo izen toshite, watashi ga kore made shiru naka de motto mo sugureta henkaku no hito desu.
 .................................
 彼は俺に人生の中で一番の親友だ。
 He is the closest friend I ever had.
-kare wa ore ni jinsei no naka de ichiban no shin’yuu da.
 .................................
 色々調べたけど、あの５人の中で最も疑わしいのは彼女だ。
 Among the 5 people I investigated, she’s the most suspicious one.
-iroiro shirabeta kedo, ano go’nin no naka de motto mo utagawashii no wa kanojo da.
 .................................
 そういう作業には、僕は昔から慣れているんだよ。一人で頭の中でいろんなことを考える。想像力を動かせる。
 This whole process is one I’ve been doing since I was little: Thinking about all kinds of things in my head, letting my imagination take over.
-sou iu sagyou ni wa, boku wa mukashi kara narete irun da yo. hitori de atama no naka de iron na koto o kangaeru. souzouryoku o ugokaseru.
 .................................
 屋敷の中では、アヤトが、庭に面した西向きの小さな部屋の開け放した窓辺にすわっていました。
 In side the residence, Ayato was sitting at the open window of a small room looking out west on to the garden.
-yashiki no naka de wa, ayato ga, niwa ni menshita nishimuki no chiisana heya no akehanashita madobe ni suwatte imashita.
 .................................
 自分自身の中でもう一度役者として挑戦したいという気持ちが芽生え、オーディションを受けました。大作ですし、自分が出演できるとは思わなかったので、決まった時は感動で泣いてしまいました。
 I wanted to challenge myself as an actor again, so I went for the audition. It’s a huge project, I didn’t think I would be able to play in it so when I got the part, I was so moved that I cried.
-jibun jishin no naka de mou ichido yakusha toshite chousen shitai to iu kimochi ga mebae, oodishon o ukemashita. taisaku desu shi, jibun ga shutsuen dekiru to wa omowanakatta node, kimatta toki wa kandou de naite shimaimashita.
 .................................
 個性が強いメンバーたちの中で、僕は中心をキープしてバランスを取る役割だと思っています。
 I think among all members with strong personalities, I’m the one who’s keeping the balance.
-kosei ga tsuyoi menbaatachi no naka de, boku wa chuushin o kiipu shite baransu o toru yakuwari da to omotte imasu.

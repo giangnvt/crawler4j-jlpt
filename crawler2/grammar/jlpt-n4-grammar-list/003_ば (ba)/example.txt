@@ -1,79 +1,59 @@
 このボタンを押せば、ドアが開きます。
 If you push this button, the door will open.
-kono botan o oseba, doa ga hirakimasu.
 .................................
 毎日練習をすれば、上手になりますよ。
 If you practice every day, you’ll get better.
-mainichi renshuu o sureba, jouzu ni narimasu yo.
 .................................
 先生を待ってるふりをすればいいじゃないか。
 You can pretend to be waiting for the teacher, you know.
-sensei o matteru furi o sureba ii janai ka.
 .................................
 今すぐ出発すれば間に合うでしょう。
 You’ll still make it if you go now.
-ima sugu shuppatsu sureba maiau deshou.
 .................................
 あなたが行けば、わたしも行きます。
 If you go, I’ll go too.
-anata ga ikeba, watashi mo ikimasu.
 .................................
 数週間もすれば、みんな忘れるよ。
 They’ll all forget this in a few weeks.
-suushuukan mo sureba, minna wasureru yo.
 .................................
 あの美術館へ行けば、日本の古い絵を見ることができます。
 If you go to that art gallery, you’ll be able to see old Japanese pictures.
-ano bijutsukan e ikeba, nihon no furui e o miru koto ga dekimasu.
 .................................
 このケーキは冷たくなければ、おいしくありません。
 This cake tastes best when served cold.
-kono keeki wa tsumetakunakereba, oishiku arimasen.
 .................................
 これ以上事を起こせば、政府とまずいことになってしまうよ。
 If you cause any more trouble, you’ll be in trouble with the government.
-kore ijou koto o okoseba, seifu to mazui koto ni natte shimau yo.
 .................................
 イタリア大使館へ行きたいんですが、どう行けばいいですか。
 I want to go to the Embassy of Italy, how do I get there?
-itaria taishikan e ikitain desu ga, dou ikeba ii desu ka.
 .................................
 それ以上は僕に尋ねないでくれ。君も自分の目で見ればそれがわかる。
 Don’t ask me any more. You’d have to see it with your own eyes to understand.
-sore ijou wa boku ni tazunenaide kure. kimi mo jibun no me de mireba sore ga wakaru.
 .................................
 天井がなければ、可能性は無限なのです。
 When there are no ceilings, the sky’s the limit.
-tenjou ga nakereba, kanousei wa mugen na no desu.
 .................................
 習えば誰だって泳げるようになるんだよ。
 If you practice, anyone can learn to swim.
-naraeba dare datte oyogeru you ni narun da yo.
 .................................
 警察沙汰にすれば彼の将来に影響するよ。
 If we called the police, it’d effect his future.
-keisatsu zata ni sureba kare no shourai ni eikyou suru yo.
 .................................
 人は死ねば、皮膚しか身につけていない。
 When a man dies he has only his skin.
-hito wa shineba, hifu shika mi ni tsukete inai.
 .................................
 海に行けば誰だって水着を着るわ。
 Everyone wears a swimsuit on the beach.
-umi ni ikeba dare datte mizugi o kiru wa.
 .................................
 十分な忍耐力があれば、すぐにモーターバイクに乗れるようになるよ。
 With enough perseverance, you’ll soon learn to ride a motorbike.
-juubun na nintairyoku ga areba, sugu ni mootaabaiku ni noreru you ni naru yo.
 .................................
 中国に民主主義が存在しなければ、香港の未来も見えてきません。
 If there’s no democracy in China, I cannot see a future for Hong Kong.
-chuugoku ni minshu shugi ga sonzai shinakereba, honkon no mirai mo miete kimasen.
 .................................
 ここに来れば、ほかの人とおしゃべりもできるし、このひもを上下に引っ張るようなちょっとした運動もできます。
 When I come here I can chat with other people and do some exercise like pulling this string up and down.
-koko ni kureba, hoka no hito to oshaberi mo dekiru shi, kono himo o jouge ni hipparu you na chotto shita undou mo dekimasu.
 .................................
 会社が違えば機械も違いますが、皆、見せる手品は同じです。
 Different companies have different machines, of course, but we all perform the same tricks.
-kaisha ga chigaeba kikai mo chigaimasu ga, minna, miseru tejina wa onaji desu.

@@ -1,20 +1,22 @@
 package edu.uci.ics.crawler4j.examples.basic;
 
-import java.util.ArrayList;
-import java.util.List;
+import com.j2e.JdbcSQLiteSupporter;
 
 import org.chasen.mecab.Node;
 import org.chasen.mecab.Tagger;
 
-import com.j2e.common.utility.JavaUtil;
+import java.util.ArrayList;
+import java.util.List;
 
 public class MacMecabClient extends AbstractMecabClient {
 
+	public MacMecabClient(JdbcSQLiteSupporter connection) {
+		super(connection);
+	}
+	
 	static {
 		try {
-			if (!JavaUtil.isWin()) {
-				System.loadLibrary("MeCab"); // MeCabを読み込む
-			}
+		    System.loadLibrary("MeCab"); // MeCabを読み込む
 		} catch (UnsatisfiedLinkError e) {
 			// MeCabが読み込めなかったときの処理
 			System.err.println("Cannot load the example native code.\nMake sure your LD_LIBRARY_PATH is defined.");
@@ -25,7 +27,7 @@ public class MacMecabClient extends AbstractMecabClient {
 	
 	@Override
 	protected String getEntryDbPath() {
-		return "/Users/apple/Documents/workspace/AndroidStudio/_Midori_text_data/v_1.8.7/db_fortest.sqlite";
+		return "/Users/apple/Documents/workspace/AndroidStudio/_Midori_text_data/v_1.8.7/db.sqlite";
 	}
 
 	@Override

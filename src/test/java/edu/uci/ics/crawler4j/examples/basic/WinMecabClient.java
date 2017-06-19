@@ -3,6 +3,8 @@ package edu.uci.ics.crawler4j.examples.basic;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.j2e.JdbcSQLiteSupporter;
+
 import net.moraleboost.mecab.Lattice;
 import net.moraleboost.mecab.Node;
 import net.moraleboost.mecab.impl.StandardTagger;
@@ -12,7 +14,11 @@ public class WinMecabClient extends AbstractMecabClient {
 	   
 	@Override
 	protected String getEntryDbPath() {
-		return "D:/20.GiangNVT/Private/Andori/_bk_andori/v_1.8.7/db_fortest.sqlite";
+		return "D:/20.GiangNVT/Private/Andori/_bk_andori/v_1.8.7/db.sqlite";
+	}
+	
+	public WinMecabClient(JdbcSQLiteSupporter connection) {
+		super(connection);
 	}
 	
     protected List<String[]> callMecab(String sentence) {

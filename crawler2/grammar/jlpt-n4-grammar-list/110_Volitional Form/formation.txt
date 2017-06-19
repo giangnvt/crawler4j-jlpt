@@ -1,0 +1,3 @@
+Group 1 Verb: change the final る to よう
+Group 2 Verb: change the final vowel う to おう (学ぶ→学ぼう)
+Group 3 Verb: くる→こよう、する→しよう

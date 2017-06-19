@@ -1,5 +1,6 @@
 package edu.uci.ics.crawler4j.examples.basic;
 
+import java.io.File;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -26,9 +27,10 @@ public abstract class AbstractMecabClient {
 
 	abstract protected String getEntryDbPath();
 
-	public AbstractMecabClient() {
-		entrySearchCon = new JdbcSQLiteSupporter(getEntryDbPath());
+	public AbstractMecabClient(JdbcSQLiteSupporter connection) {
+		//entrySearchCon = new JdbcSQLiteSupporter(getEntryDbPath());
 		//outputUpdateCon = new JdbcSQLiteSupporter(outputDbPath);
+		entrySearchCon = connection;
 	}
 
 	public MecabAnalyseResult analyseInputSentence(String sentence) {
@@ -98,14 +100,14 @@ public abstract class AbstractMecabClient {
 			String partOfSpeech = featureTokens[0]; 
 			// 品詞細分類1
 			String posCat1 = featureTokens[1]; 
-			// 品詞細分類2
-			String posCat2 = featureTokens[2]; 
-			// 品詞細分類3
-			String posCat3 = featureTokens[3]; 
-			// 活用型
-			String conjugationForm = featureTokens[4]; 
-			// 活用形
-			String conjugation = featureTokens[5]; 
+//			// 品詞細分類2
+//			String posCat2 = featureTokens[2]; 
+//			// 品詞細分類3
+//			String posCat3 = featureTokens[3]; 
+//			// 活用型
+//			String conjugationForm = featureTokens[4]; 
+//			// 活用形
+//			String conjugation = featureTokens[5]; 
 			// 原形 
 			String originalForm = ""; 
 			// 読み
@@ -122,12 +124,16 @@ public abstract class AbstractMecabClient {
 			if (PART_OF_SPEECH_MAP.containsKey(partOfSpeech)) {
 				if (isEntryCloseWaiting) {
 					sb.append("}");
-			}
+				}
 				isEntryCloseWaiting = false;
 
 
-				int entryId = searchEntryByWord2(originalForm);
-				
+				int entryId;
+				if (originalForm.length() > 0)
+					entryId = searchEntryByWord2(originalForm);
+				else
+					entryId = searchEntryByWord2(surface);
+
 				boolean isEntry = entryId > 0;
 				if (isEntry) {
 					entryIdList.add(entryId);
@@ -159,8 +165,11 @@ public abstract class AbstractMecabClient {
 					//sb.append("}");
 				}
 			} else {
-				if ("助詞".equals(partOfSpeech)
-						|| "助動詞".equals(partOfSpeech)) {
+				if (("助詞".equals(partOfSpeech)
+						|| "助動詞".equals(partOfSpeech))
+						&& !"副助詞".equals(posCat1)
+						&& !"格助詞".equals(posCat1)
+						) {
 					if (parseStatus == ParseStatus.VerbStarted
 							|| parseStatus == ParseStatus.AdjectiveStarted) {
 						//TODO

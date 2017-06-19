@@ -1,6 +1,9 @@
 package edu.uci.ics.crawler4j.examples.basic;
 
-import com.google.common.io.Files;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.util.List;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -8,10 +11,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.util.List;
+import com.j2e.common.utility.JavaUtil;
 
 
 public class HtmlAnalyzer {
@@ -33,8 +33,12 @@ public class HtmlAnalyzer {
 	
     
 	public static void main (String[] args) throws Exception {
-		String rootFolderStr = "D:/20.GiangNVT/Private/Github/crawler4j-jlpt/crawler2/";
-//		String rootFolderStr = "/Users/apple/Documents/workspace/AndroidStudio/crawler4j-jlpt/crawler2/";
+		String rootFolderStr = null;
+		if (JavaUtil.isWin()) {
+			rootFolderStr = "D:/20.GiangNVT/Private/Github/crawler4j-jlpt/crawler2/";
+		} else {
+			rootFolderStr = "/Users/apple/Documents/workspace/AndroidStudio/crawler4j-jlpt/crawler2/";
+		}
 		Option option = new Option(rootFolderStr, true, true);
 		
 		HtmlAnalyzer analyzer = new HtmlAnalyzer();
@@ -71,8 +75,6 @@ public class HtmlAnalyzer {
                 File[] dirLv2s = dirLv1.listFiles();
                 for (File dirLv2 : dirLv2s) {
                     if (dirLv2.isDirectory()) {
-                        if ("_X".equals(dirLv2.getName())) continue;
-                        
                         File[] fileLv3s = dirLv2.listFiles();
                         //if (fileLv3s.length > 1 && !overwriteFlg) continue;
                         for (File fileLv3 : fileLv3s) {
@@ -87,7 +89,7 @@ public class HtmlAnalyzer {
 	}
 	
 	enum State {
-	    Undefined, Meaning, Formation, Example
+	    Undefined(), Meaning, Formation, Example
 	}
 	enum FolderState {
 	    OK, Warning, NG
@@ -206,29 +208,23 @@ public class HtmlAnalyzer {
 		                if (text.trim().length() == 0)
 		                    continue;
 
-		                switch (state) {
-		                    case Undefined:
+		                if (state == State.Undefined) {
 		                        throw new Exception ("unknow start section: [" + tagHeaderText + "]");
-		                        
-		                    case Meaning:
+		                } else if (state == State.Meaning) {
 		                        if (meaningSb.length() > 0)
 		                            meaningSb.append(NEWLINE);
 		                        meaningSb.append(text);
-	                            break;
-	                            
-		                    case Formation:
+		                } else if (state == State.Formation) {	                            
 		                        if (formationSb.length() > 0)
 		                            formationSb.append(NEWLINE);
 		                        formationSb.append(text);
-                                break;
-		                    case Example:
+		                } else if (state == State.Example) {
 		                        if (exampleSb.length() > 0)
 		                            exampleSb.append(NEWLINE);
 		                        exampleSb.append(text);
 		                        exampleCount++;
 		                        if (exampleCount > 2)
 		                            exampleWarning = true;
-		                        break;
 		                }
 		            }
 		        }

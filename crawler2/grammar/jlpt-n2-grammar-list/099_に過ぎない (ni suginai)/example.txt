@@ -1,79 +1,59 @@
 病気で病院へ行ったといっても、ただの風邪にすぎない。
 Although I said that I went to the hospital because I was sick, it was just a normal cold.
-byouki de byouin e itta to ittemo, tada no kaze ni suginai.
 .................................
 いくら働いても一ヶ月の収入は２０万円にすぎない。
 No matter how hard I work, I can only earn 200.000 yen a month.
-ikura hataraitemo ikkagetsu no shuunyuu wa nijuu man en ni suginai.
 .................................
 日本語の勉強を始めたといっても、まだ六ヶ月にすぎない。
 Although I said that I started learning Japanese, it’s not even half a year yet.
-nihongo no benkyou o hajimeta to itte mo, mada rokkagetsu ni suginai.
 .................................
 その声はわたしの想像にすぎなかった。
 That voice was pure imagination.
-sono koe wa watashi no souzou ni suginakatta.
 .................................
 英語が話せるといっても、簡単な会話ができるにすぎません。
 Although I said that I can speak English, I can only use simple expressions.
-eigo ga hanaseru to itte mo, kantan na kaiwa ga dekiru ni sugimasen.
 .................................
 単に幸運だったにすぎない。
 That was pure luck.
-tan ni kouun datta ni suginai.
 .................................
 来年大地震があるというのは、うわさにすぎない。
 The theory that there will be a major earthquake next year is nothing but a rumor.
-rainen daijishin ga aru to iu no wa, uwasa ni suginai.
 .................................
 田中さんは会社をやめた理由を病気のためだと言っているが、それはたんなる口実にすぎない。
 Tanaka said that he quit his job because of his illness, but that’s no more than an excuse.
-tanaka san wa kaisha o yameta riyuu o byouki no tame da to itte iru ga, sore wa tan naru koujitsu ni suginai.
 .................................
 俊彦は確かにこの一連の犯行に関与してたが、ただの操り人形にすぎなかったってことさ。
 Toshihiko was involved in these crimes, but only because he was being manipulated.
-toshihiko wa tashika ni kono ichiren no hankou ni kan’yo shiteta ga, tada no ayatsuri ningyou ni suginakatta tte koto sa.
 .................................
 古代の人々の科学的知識には驚かされるばかりだよ。現代物理学はようやくその全体を理解しはじめてたにすぎない。
 The scientific wisdom of the ancients was staggering. Modern physics is only now beginning to comprehend it all.
-kodai no hitobito no kagakuteki chishiki ni wa odorokasareru bakari da yo. gendai butsurigaku wa youyaku sono zentai o rikai shihajimeteta ni suginai.
 .................................
 権力がすべてであり、有罪か無罪かなど空論にすぎない。
 Influence is everything, and guilt or innocence is merely an academic question.
-kenryoku ga subete de ari, yuuzai ka muzai ka nado kuuron ni suginai.
 .................................
 この博物館は、所蔵品があまりに多いため、一度に展示できるのはその五パーセントにすぎない。
 This museum has a collection so huge that only five percent of it can be on display at any one time.
-kono hakubutsukan wa, shozouhin ga amari ni ooi tame, ichido ni tenji dekiru no wa sono go paasento ni suginai.
 .................................
 長距離列車のうち、何らかの食糧を提供しているのはわずか６％にすぎません。
 Only six percent of long-distance trains offer any food.
-choukyori ressha no uchi, nanraka no shokuryou o teikyou shite iru no wa wazuka roku paasento ni sugimasen.
 .................................
 たぶんアドレナリンのせいにすぎないのだろうが、自分がこのアメリカ人の医師に不思議なほど惹かれているのを感じていた。
 I knew it was probably just the adrenaline, but I found myself strangely attracted to the American doctor.
-tabun adorenarin no sei ni suginai no darou ga, jibun ga kono amerikajin no ishi ni fushigi na hodo hikarete iru no o kanjite ita.
 .................................
 私にとって金はそれほど大きな動機ではなく、単に実績を記録するための手段にすぎない。
 Money is never a big motivation for me, except as a way to keep score.
-watashi ni totte kane wa sore hodo ooki na douki de wa naku, tan ni jisseki o kiroku suru tame no shudan ni suginai.
 .................................
 山を離れれば霧もなくなるのではないかという漠然とした望みをもっているにすぎません。
 I only hope that perhaps away beyond the mountains there might be no fog.
-yama o hanarereba kiri mo nakunaru no de wa nai ka to iu bakuzen toshita nozomi o motte iru ni sugimasen.
 .................................
 オカルトという語は悪魔崇拝を連想させるが、実際は「隠された」とか「あいまいな」という意味にすぎない。
 The word occult, despite conjuring images of devil worship, actually means “hidden” or “obscured.”
-okaruto to iu go wa akuma suuhai o rensou saseru ga, jissai wa kakusareta toka aimai na to iu imi ni suginai.
 .................................
 検索スパイダーのコード化はわたしの技術レベルをはるかに下回る小手先の作業にすぎない。
 Coding a search spider is a menial task far below my skill level.
-kensaku supaidaa no koodoka wa watashi no gijutsu reberu o haruka ni shitamawaru kotesaki no sagyou ni suginai.
 .................................
 私にとってばくち打ちとは、スロット・マシンをする人間にすぎない。
 To me, a gambler is just someone who plays slot machines.
-watashi ni totte bakuchiuchi to wa, surotto mashin o suru ningen ni suginai.
 .................................
 伝説がただの伝説にすぎない場合もある。
 Sometimes a legend is just a legend.
-densetsu ga tada no densetesu ni suginai baai mo aru.

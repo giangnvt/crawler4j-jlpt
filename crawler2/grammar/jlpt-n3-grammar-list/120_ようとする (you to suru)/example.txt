@@ -1,103 +1,77 @@
 犬があなたの靴をかもうとしているよ。
 The dog is trying to bite your shoe.
-inu ga anata no kutsu o kamou to shite iru yo.
 .................................
 電車に乗ろうとしたときに、ドアが閉まって乗れなかった。
 When I was about to get on the train, the door closed so I missed it.
-densha ni norou to shita toki ni, doa ga shimatte norenakatta.
 .................................
 子供達が迷路を抜けて外に出ようとしている。
 The kids are trying to get out of the maze.
-kodomotachi ga meiro o nukete soto ni deyou to shite iru.
 .................................
 彼は必死に逃げようとした。
 He tried to run for his life.
-kare wa hisshi ni nigeyou to shita.
 .................................
 三人が外に出ようとすると、先生が呼び止めた。
 When they tried to leave, the teacher called them back.
-sannin ga soto ni deyou to suru to, sensei ga yobitometa.
 .................................
 彼らはわたしを見つけようとするに違いない。
 They must be looking for me.
-karera wa watashi o mitsukeyou to suru ni chigai nai.
 .................................
 ハチコは、わたしが出かけようとすると、ほえる。
 Hachiko barks whenever I’m about to go out.
-hachiko wa, watashi ga dekakeyou to suru to, hoeru.
 .................................
 彼を助けようとする者は誰もいなかった。
 No one tried to help him.
-kare o tasukeyou to suru mono wa daremo inakatta.
 .................................
 息をしようとすると、頭がクラクラする。
 I feel dizzy when I try to breath.
-iki o shiyou to suru to, atama ga kurakura suru.
 .................................
 おふろに入ろうとしたとき、誰かが来た。
 Someone came when I was about to take a bath.
-ofuro ni hairou to shita toki, dareka ga kita.
 .................................
 彼は自由なほうの手を伸ばして頭皮をさわり、痛みの源を突き止めようとした。
 He reached up with his free arm and touched his scalp, trying to locate the source of his headache.
-kare wa jiyuu na hou no te o nobashite touhi o sawari, itami no minamoto o tsukitomeyou to shita.
 .................................
 私はその会話を、面白いけれど当たり障りのない話題に導こうとした。
 I tried to lead the conversation toward interesting yet harmless topics.
-watashi wa sono kaiwa o, omoshiroi keredo atarisawari no nai wadai ni michibikou to shita.
 .................................
 彼の墓石には、大胆にもその骨を持っていこうとするような者を呪う言葉が刻まれています。
 His gravestone is inscribed with a curse against anyone who might dare move his bones.
-kare no hakaishi ni wa, daitan ni mo sono hone o motte ikou to suru you na mono o norou kotoba ga kizamarete imasu.
 .................................
 彼は、人前では、ほかの無法者たちの前では、強くあろうとします。
 He tries to be strong in front of people, in front of other outlaws.
-kare wa, hitomae de wa, hoka no muhoushatachi no mae de wa, tsuyoku arou to shimasu.
 .................................
 右腕を動かそうとしたが、鋭い痛みで体がこわばった。
 I tried to move my right arm, but a sharp pain restrained me.
-migiude o ugokasou to shita ga, surudoi itami de karada ga kowabatta.
 .................................
 筋肉がこわばり、佐藤は起きあがろうとした。
 Sato’s muscles tightened, and he tried to sit up.
-kinniku ga kowabari, satou wa okiagarou to shita.
 .................................
 自分にあたえられた社会的地位すら維持しようとしなかったんだ。
 You didn’t even bother to keep that position you had.
-jibun ni ataerareta shakaiteki chii sura iji shiyou to shinakattan da.
 .................................
 どうしてこんなに焦ってお金をつくろうとしているか、あなたならお分かりでしょう？
 I guess you know why I’m so anxious to make money quickly, don’t you?
-dou shite konna ni asette okane o tsukurou to shite iru ka, anata nara owakari deshou.
 .................................
 やつは僕に相続権を放棄させ、この家から追い出そうとしてるんだ！
 He wants me to forfeit the inheritance and then chase me out of this house!
-yatsu wa boku ni souzokuken o houki sase, kono ie kara oidasou to shiterun da.
 .................................
 本当は彼女を人質にして逃亡しようとしたんじゃないのか？
 You’re really trying to run away and take her hostage, aren’t you?
-hontou wa kanojo o hitojichi ni shite toubou shiyou to shitan janai no ka.
 .................................
 私たちが食卓をはなれようとしたとき、誰か戸をたたくものがあった。
 As we were about to rise from the table, there came a knock at the door.
-watashitachi ga shokutaku o hanareyou to shita toki, dareka to o tataku mono ga atta.
 .................................
 誰もわたしをやとってくれようとしなかった。
 No one would hire me.
-daremo watashi o yatotte kureyou to shinakatta.
 .................................
 彼は講義やその後の出来事を思い出そうとした。
 He tried to recall anything at all from the lecture or afterward.
-kare wa kougi ya sono ato no dekigoto o omoidasou to shita.
 .................................
 １９８９年６月４日の出来事は、今では中国の人々の記憶から消えようとしているのでしょうか？
 Are the events of June 4, 1989, now slipping from the minds of the Chinese people?
-sen kyuuhyaku hachijuu kyuu nen rokugatsu yokka no dekigoto wa, ima de wa chuugoku no hitobito no kioku kara kieyou to shite iru no deshou ka.
 .................................
 現在、メキシコからの不法移民数はこの約５０年間で最も少なく、国境を越えようとした非正規移民の逮捕者総数を見ても、現在は、最も多かった２０００年の５分の１になっています。
 Right now, illegal immigration from Mexico is at a near 50-year low, and when you look at the overall apprehensions of unauthorized immigrants trying to cross the border, right now, they are one-fifth of what they were at the height in the year 2000.
-genzai, mekishiko kara no fuhou imin suu wa kono yaku gojuu nenkan de motto mo sukunaku, kokkyou o koeyou to shita hiseiki imin no taihosha sousuu o mite mo, genzai wa, motto mo ookatta nisen nen no go bun no ichi ni natte imasu.
 .................................
 声が小さいのが悩みです。特に、英語で話そうとすると、大きい声が出ません。
 I’m having trouble with my low voice. I just can’t talk loudly especially when I try to speak English.
-koe ga chiisai no ga nayami desu. toku ni, eigo de hanasou to suru to, ookii koe ga demasen.
