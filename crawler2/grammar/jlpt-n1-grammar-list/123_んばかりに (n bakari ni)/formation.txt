@@ -1,2 +1,2 @@
-Verb-ないform （－ない） + んばかり + に/の/だ
+Verb-ないform （remove ない） + んばかり + に/の/だ
 Exception: する -> せん + ばかりに
