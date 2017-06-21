@@ -1,2 +1,2 @@
 Verb-ないform + ではおかない
-Verb-ないform （－ない） + ずにはおかない
+Verb-ないform （remove ない） + ずにはおかない
