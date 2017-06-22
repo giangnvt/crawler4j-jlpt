@@ -1,0 +1,23 @@
+あなたのいうことは、すべて{|証拠|しょうこ|}《とされる》ことを、ここに{|警告|けいこく|}します。
+1351600,1252360
+I warn you that anything you say may be used as evidence.
+.................................
+この{|新薬|しんやく|}は、{|効果|こうか|}はあるが、{|副作用|ふくさよう|}が{|強|つよ|い}とされている。
+1720620,1275130,1500400,1236070
+This new medicine works but it is believed to have strong side effects.
+.................................
+あなたが{|必要|ひつよう|}《とされる》{|成績|せいせき|}を{|絶対|ぜったい|}に{|取|と|れる}ようにしてみせます！
+1487660,1375760,1386840,1326990
+I will make sure you achieve the required results!
+.................................
+この{|物質|ぶっしつ|}は{|植物|しょくぶつ|}の{|成長|せいちょう|}を{|促進|そくしん|}する《とされる》。
+1502560,1357300,1375790,1403780
+This substance is believed to promote plant growth.
+.................................
+{|彼|かれ|}の{|業績|ぎょうせき|}とされているものが{|本当|ほんとう|に}{|彼|かれ|}のものだったかというと、{|疑問|ぎもん|}が{|残|のこ|るよ}。
+1000580,1239460,1611580,1000580,1225630,1304510
+Many now question whether he could really take full credit for all of his supposed achievements.
+.................................
+{|友人|ゆうじん|}たちの{|間|ま|}では、{|作品|さくひん|}についてあれこれと{|彼|かれ|}にきくのは{|禁物|きんもつ|}とされていた。
+1540150,1215230,1297910,1000580,1241660
+It was understood among his friends that inquiries as to literary output were not encouraged.

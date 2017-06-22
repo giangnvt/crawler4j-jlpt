@@ -1,0 +1,23 @@
+《いずれにせよ》、きみには{|援護|えんご|}など{|必要|ひつよう|}ない。
+1588790,1487660
+After all, you don’t really need help.
+.................................
+《いずれにせよ》、わたしは{|試験|しけん|}のことを{|考|かんが|えたくない}。
+1312350,1281020
+In any case, I don’t want to think about the exam.
+.................................
+《いずれにせよ》、やつの{|関心|かんしん|}は、{|配下|はいか|}を{|集|あつ|める}ことだけじゃない。
+1215870,1473000,1333560
+In any case, gathering followers is only one thing he’s interested in.
+.................................
+《いずれにせよ》、あなたは{|物|もの|}がわかっているようね。
+1502390
+You seem to know what you’re doing, at any rate.
+.................................
+《いずれにせよ》{|時間|じかん|}がない。
+1315920
+There is little time, one way or another.
+.................................
+《いずれにせよ》このピストルは{|役|やく|に|立|た|つ}かもしれない。
+1537980
+In any case, this pistol might come in useful.

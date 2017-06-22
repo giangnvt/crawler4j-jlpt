@@ -1,0 +1,19 @@
+{|締|し|め|切|き|り}{|直前|ちょくぜん|}になってテーマを{|変|か|える}《ようでは》、いい{|論文|ろんぶん|}は|書|か|けないだろう。
+1594590,1431330,1510650,1561840
+If you change the theme just before the deadline, you won’t be able to write a good thesis.
+.................................
+これぐらいの{|困難|こんなん|}にぶつかって{|落|お|ち|込|こ|む}《ようでは》{|何事|なにごと|}もできない。
+1289620,1548570,1188740
+If I feel upset after facing such a small obstacle, I won’t be able to do anything.
+.................................
+この{|程度|ていど|}の{|練習|れんしゅう|}で{|文句|もんく|}をいう《ようでは》{|次|つぎ|}の|試合|しあい|に|勝|か|てないぞ。
+1436540,1559160,1505260,1316380
+If you complain about this amount of training you won’t win the next match.
+.................................
+こんな{|簡単|かんたん|な}{|問題|もんだい|}が{|解決|かいけつ|}できない《ようでは》、{|困|こま|る}。
+1214330,1536010,1198960,1289590
+We’ll be in big trouble if we can’t solve such a simple problem.
+.................................
+こんな{|質問|しつもん|}をする《ようでは》、まだ{|勉強|べんきょう|}が{|足|た|りない}。
+1320760,1512670,1404740
+Asking this question means you are not studying hard enough.

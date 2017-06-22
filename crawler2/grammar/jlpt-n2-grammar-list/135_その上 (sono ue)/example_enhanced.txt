@@ -1,0 +1,15 @@
+《その|上|うえ|》、{|雨|あめ|}が{|降|お|り}そうだな。
+1171900,1589500
+Furthermore, it looks like it’s going to rain.
+.................................
+《その|上|うえ|》、{|彼|かれ|}はわたしの{|誕生|たんじょう|}{|日|び|}まで{|忘|わす|れて}いる。
+1000580,1419080,1463770,1519210
+And now he has forgotten my birthday.
+.................................
+ただでさえ{|彼女|かのじょ|}と{|過|す|ごす}{|時間|じかん|}が{|少|すく|ないのに}、《その|上|うえ|》{|練習|れんしゅう|}で{|時間|じかん|}を{|取|と|ら}れるのが、{|特|とく|に}うんざりだ。
+1483150,1196000,1315920,1348910,1559160,1315920,1326980,1454670
+I’m finding these training sessions particularly irksome because they cut into the already limited time I could be spending with my girlfriend.
+.................................
+《その|上|うえ|》{|彼女|かのじょ|}のやることも{|足|た|し}にならない。
+1483150,1404700
+Besides, she’s not helping the matters.

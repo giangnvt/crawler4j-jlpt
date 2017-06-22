@@ -1,0 +1,15 @@
+その{|辺|あた|り}はとてもにぎやかだ《と|聞|き|いた》。
+1512080
+I heard that it’s very lively there.
+.................................
+|木村|きむら|さんも{|夕|ゆう|べ}のパーティーに{|出|で|た}《と|聞|き|いた》。
+1542640,1338240
+I heard that Kimura also went to the party last night.
+.................................
+わたしはあなたが{|学校|がっこう|}に{|戻|もど|った}《と|聞|き|いた》とき、すごく{|驚|おどろ|いた}。
+1206730,1535880,1238680
+When I heard that you went back to school, I was really shocked.
+.................................
+{|城|しろ|}のどこかに{|怪物|かいぶつ|}が{|潜|ひそ|んで}いる《と|聞|き|いた》。
+1355710,1200330,1391240
+I heard that a monster was hidden somewhere in the castle.

@@ -1,0 +1,59 @@
+{|友達|ともだち|}と{|一緒|いっしょ|}に{|焼肉|やきにく|}《や》キムチを{|食|た|べました}。
+1540170,1163400,1605420,1358280
+I ate things like grilled meat and kimchi with my friends.
+.................................
+ブックオフでDVD《や》{|本|ほん|}を{|売|う|った}。
+1522150,1473950
+I sold my DVD and books, among other things, at Bookoff.
+.................................
+{|大学生|だいがくせい|}《や》サラリーマンがマラソン{|大会|たいかい|}に{|参加|さんか|}しています。
+1413260,1413180,1302090
+People like college students and office workers are participating in the marathon race.
+.................................
+スーパーでりんご《や》{|野菜|やさい|}を{|買|か|いました}。
+1537370,1473740
+I bought things like apples and vegetables at the supermarket.
+.................................
+{|冬休|ふゆやす|み}は{|家族|かぞく|}でイタリア《や》イギリスへ{|行|い|きました}。
+1446090,1192150,1578850
+I went to countries like Italy and England with my family during the winter holiday.
+.................................
+{|現在|げんざい|}、{わが|国|くに|}を{|苦|くる|しめて}いる{|犯罪|はんざい|}《や》{|暴力|ぼうりょく|}はすぐになくなります。
+1263650,1606630,1244360,1481590,1519590
+The crime and violence that today afflicts our nation will soon come to an end.
+.................................
+{|学者|がくしゃ|}《や》ビジネスリーダたちが、{|毎年|まいとし|}ここに{|集|あつ|まって}{|意見|いけん|}{|交換|こうかん|}をする。
+1206800,1584360,1333550,1156530,1271750
+Scholars and business leaders gather here each year to exchange ideas.
+.................................
+ここには、アメリカに{|移住|いじゅう|}した{|人|ひと|}たちが、{|金網|かなあみ|}の{|反対|はんたい|}{|側|がわ|}にいる{|家族|かぞく|}《や》{|恋人|こいびと|}と{|話|はな|す}ために《や》ってきます。
+1158280,1366410,1243230,1480670,1403830,1192150,1558920,1562350
+Here, people who have immigrated to the United States come to speak with their family and lovers on the other side.
+.................................
+{|西洋|せいよう|}の{|国々|くにぐに|}《や》そのほかの{|地域|ちいき|}の{|人々|ひとびと|}が、|１|いち||９|きゅう||８|はち||９|きゅう|{|年|ねん|}の{|出来事|できごと|}から{|学|まな|ぶべきだ}。
+1381100,1592260,1420800,1580650,1468060,1340570,1206530
+Western countries and other people should learn from what happened in 1989.
+.................................
+{|彼|かれ|}は、{|労働|ろうどう|}《や》{|農作業|のうさぎょう|}にいそしむ{|農民|のうみん|}たちのつつましい{|日常|にちじょう|}の{|光景|こうけい|}を{|多|おお|く}の{|絵|え|}に{|描|えが|きました}。
+1000580,1606450,1470690,1470770,1464180,1272950,1861770,1202270,1583460
+He painted many pictures of humble, everyday scenes of peasants working and farming.
+.................................
+{|私|わたし|}はずっと、レジャー《や》{|観光|かんこう|}《や》{|旅行|りょこう|}にとても{|関心|かんしん|}がありました。
+1311110,1214840,1553170,1215870
+I’ve always been really interested in leisure and tourism and travel.
+.................................
+たまに、{|建物|たてもの|}ツアーも《や》ります。お|客|きゃく|さんを{|案内|あんない|}して、テートの{|歴史|れきし|}《や》この{|建物|たてもの|}の{|歴史|れきし|}について、{|説明|せつめい|}するのです。
+1257540,1154860,1558050,1257540,1558050,1386460
+I occasionally do the architecture tours, where I take people round and explain the history of the Tate and the history of the building as well.
+.................................
+{|他|た|}の{|政治|せいじ|}{|家|か|}たちは、そうした{|苦難|くなん|}《や》その{|不公平|ふこうへい|}さを{|見|み|て}、「あなた{|方|かた|}に{|同情|どうじょう|}します」と{|言|い|います}。「あなた{|方|かた|}のために{|闘|たたか|います}」と{|言|い|う}のは{|父|ちち|}だけでしょう。
+1203260,1375970,1191730,1244590,1492300,1259290,1516925,1452720,1587040,1516925,1596960,1587040,1497610
+Other politicians see these hardships, see the unfairness of it all, and they say, “I feel for you.” Only my father will say, “I’ll fight for you.”
+.................................
+{|警察|けいさつ|}《や》{|刑事|けいじ|}が{|絡|から|む}ストーリーは{|多|おお|いですよね}。{|実話|じつわ|}がモチーフになっているものもあるし、{|完全|かんぜん|に}フィクションのものもあります。
+1252390,1249660,1548520,1407460,1321580,1211510
+There are many stories about police and detectives, right? Some are based on true stories, and some are completely fiction.
+.................................
+テレビゲームには、{|危険|きけん|}《や》{|暴力|ぼうりょく|}を{|美化|びか|}するものもある。
+1218560,1519590,1486370
+Some video games glamorize danger and violence.

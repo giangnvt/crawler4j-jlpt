@@ -1,0 +1,11 @@
+なにも{|知|し|らない}《ものとして》{|教|おし|えて}くれたまえ。
+1420470,1236900
+Answer me as though I knew nothing.
+.................................
+わたしはいない《ものとして》{|話|はなし|}を{|進|すす|めて}ください。
+1600900,1365990
+Please assume that I’m not here and continue your conversation.
+.................................
+|木村|きむら|さんはもう{|来|こ|ない}《ものとして》、{|始|はじ|めましょう}。
+1547720,1307550
+Let’s presume that Kimura’s not coming and start without him.

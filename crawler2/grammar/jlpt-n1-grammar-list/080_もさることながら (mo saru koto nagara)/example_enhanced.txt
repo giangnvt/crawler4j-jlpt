@@ -1,0 +1,19 @@
+このノートパソコンは、{|価格|かかく|}《もさることながら》、デザインがよいので{|人気|にんき|}がある。
+1189500,1367010
+This laptop is popular because it not only has reasonable price but also good design.
+.................................
+{|歌|うた|}のうまさ《もさることながら》、{|彼女|かのじょ|}はピアノの{|名手|めいしゅ|}なんです。
+1193180,1483150,1531590
+She’s not only good at singing but also excellent at playing piano.
+.................................
+{|彼|かれ|}は{|外見|がいけん|}《もさることながら》{|性格|せいかく|}もとてもいい。
+1000580,1203520,1375290
+He’s good looking and his personality is also very nice.
+.................................
+{|就職|しゅうしょく|}{|先|さき|}を{|決|き|める}ときは{|仕事|しごと|}の{|内容|ないよう|}《もさることながら》、{|条件|じょうけん|}や{|待遇|たいぐう|}も{|無視|むし|}できない。
+1331670,1387210,1254180,1304970,1459400,1356510,1410610,1530020
+When you decide to take a new job, you must consider not only the type of job but also the working conditions and treatment.
+.................................
+さしあたっての{|気|き|}まりわるさ《もさることながら》、{|彼女|かのじょ|}のまえにはいろいろと{|気|き|}の{|重|おも|く}なることがひかえておりました。
+1221520,1483150,1221520,1335750
+Besides the immediate embarrassment, there were other evils before her.

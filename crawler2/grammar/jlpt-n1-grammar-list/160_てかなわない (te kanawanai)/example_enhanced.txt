@@ -1,0 +1,19 @@
+{|隣|となり|}の{|工事|こうじ|}がうるさく《てかなわない》。
+1555830,1278130
+I can’t stand the noise from the construction going on next door.
+.................................
+{|階段|かいだん|}でドスンドスンされてたんじゃ、{|集中|しゅうちゅう|}しにくく《てかなわない》。
+1203090,1333750
+It’s rather difficult to concentrate when people keep thundering up and down the stairs.
+.................................
+{|毎日|まいにち|}こう{|寒|さむ|くては}かなわない。
+1524720,1210360
+I can’t stand this cold weather every day.
+.................................
+{|一切|いっさい|}を{|妻|つま|}のせいにされてはかなわない。あれにはかかわりない{|事|こと|}なんだから。
+1164170,1294330,1313580
+I won’t have the whole thing pinned on my wife. She had nothing whatever to do with it.
+.................................
+{|彼|かれ|}が{|無口|むくち|で}、{|一緒|いっしょ|}にいると{|退屈|たいくつ|}でかなわない。
+1000580,1529940,1163400,1596750
+He’s a man of few words. I can’t stand being with him because it’s so boring.

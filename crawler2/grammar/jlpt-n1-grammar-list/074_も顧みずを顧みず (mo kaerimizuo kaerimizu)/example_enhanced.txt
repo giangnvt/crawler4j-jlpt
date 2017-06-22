@@ -1,0 +1,11 @@
+{|彼|かれ|}はジャックの{|疑惑|ぎわく|}の{|眼|め|}《もかえりみず》にジョージ{|老人|ろうじん|}の{|生命|せいめい|}を{|救|すく|った}。
+1000580,1225680,1604890,1561090,1379530,1229060
+He saved old George’s life, despite the disquieting insinuations of Jack.
+.................................
+おじゃま{|申|もう|し|上|あ|げて}おゆるしいただきます。{|東京|とうきょう|}から{|何|なん|}かおよろしいおしらせでもあったかと{|存|ぞん|じまして}、{|失礼|しつれい|}をかえりみずおうかがい{|申|もう|しあげますので}。
+1362950,1447690,1577100,1406140,1320230,1362950
+I beg your pardon, madam, for interrupting you, but I was in hopes you might have got some good news from town, so I took the liberty of coming to ask.
+.................................
+{|彼|かれ|}は{|自|みずか|ら}の{|命|いのち|}《もかえりみず》{|戦場|せんじょう|}に{|向|む|かった}。
+1000580,1317330,1531940,1390320,1604800
+He went to the war front regardless of his own life.

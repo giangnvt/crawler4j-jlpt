@@ -1,0 +1,27 @@
+{|暇|ひま|}だからゲーム《でも》しましょう。
+1577280
+Since we’re free, let’s play games or something.
+.................................
+{|疲|つか|れたから}、コーヒー《でも》{|飲|の|みましょう}。
+1483740,1169870
+Since we’re tired, let’s drink coffee or something.
+.................................
+{|連休|れんきゅう|}はどうする？{|郊外|こうがい|}へ《でも》{|行|おこな|って}みようか。
+1559380,1282490,1589060
+What are we gonna do this consecutive holiday? Shall we go to the suburb or something?
+.................................
+{|夕食|ゆうしょく|}ま《でも》う{|少|すこ|し}{|時間|じかん|}があるから、パン《でも》{|食|た|べ}なさい。
+1542730,1348870,1315920,1358280
+Since dinner won’t be ready for a little while, eat bread or something.
+.................................
+{|一緒|いっしょ|}に{お|茶|ちゃ|}《でも》いかがですか。
+1163400,1002430
+Shall we go drink tea or something together?
+.................................
+{|泣|な|いた}ようですね。{|悪|わる|い}こと《でも》あったのですか。
+1229840,1151260
+You look like you were crying. Did something bad happen?
+.................................
+よく{|運動|うんどう|}してください。{|病気|びょうき|}に《でも》なったら{|困|こま|るですから}。
+1172910,1490230,1289590
+Please exercise frequently. It’d be troublesome if you got sick.

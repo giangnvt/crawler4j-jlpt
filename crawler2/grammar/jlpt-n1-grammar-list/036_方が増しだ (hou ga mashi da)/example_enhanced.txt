@@ -1,0 +1,19 @@
+{|大阪|おおさか|}で{|警察|けいさつ|}に{|逮捕|たいほ|}された《ほうがましだ》ったかもしれないと{|思|おも|う}。
+2078800,1252390,1411470,1589350
+I wonder if I might have been better off taking my chances letting the police arrest me in Osaka.
+.................................
+あんなことになるなら、{|死|し|んだ}《ほうがましだ》。
+1310730
+I’d rather die than have something like that happen to me.
+.................................
+そんな{|奴|やつ|}なら、{|死|し|んだ}《|方|ほう|がまし》だ。
+1445630,1310730
+Someone like him is better off dead.
+.................................
+{|彼|かれ|}と{|結婚|けっこん|}する？わたしなら、{|悪夢|あくむ|}の《ほうがましだ》！
+1000580,1254790,1152530
+Marry him? I’d rather have nightmares!
+.................................
+そんなことするくらいなら、{|五|ご|}{|階|かい|}から真{|逆|さか|さまに}{|敷石|しきいし|}の{|上|うえ|}に{|身|み|}を{|投|な|げた}《ほうがましだ》わ。
+1268060,1203020,1593650,1646640,1352130,1365520,1447000
+I would rather throw myself head first on the pavement from the fifth story than do something like that.

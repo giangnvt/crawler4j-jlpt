@@ -1,0 +1,31 @@
+わたしは、いくらお{|酒|さけ|}を{|飲|の|んでも}{|顔色|かおいろ|}が{|変|か|わらない}。
+1329010,1169870,1217820,1510790
+My face doesn’t turn red no matter how much I drink.
+.................................
+どんなに{|一生懸命|いっしょうけんめい|}{|働|はたら|いても}、{|生活|せいかつ|}は{|楽|らく|}にならないだろうと{|思|おも|う}。
+1164010,1451150,1378860,1207230,1589350
+No matter how hard I work, I don’t think my life will get any easier.
+.................................
+どんなに{|健康|けんこう|に}{|自信|じしん|}があっても、{|油断|ゆだん|}していると{|風邪|かぜ|}を{|引|ひ|く}。
+1256170,1317970,1538690,1583720,1169250
+No matter how healthy you think you are, you’ll catch a cold if you get careless.
+.................................
+わたしはどんなに{|暑|あつ|くても}{|寝|ね|る}ときはクーラーを{|消|け|して}{|寝|ね|ます}。
+1343460,1360010,1350110,1360010
+No matter how hot it is, I always turn off the air-conditioner when I go to bed.
+.................................
+{|父|ちち|}はどんなに{|苦|くる|しくても}あきらめませんでした。
+1497610,1244320
+My father didn’t give up no matter how hard it was.
+.................................
+もう{|酒|さけ|}は{|飲|の|まない}と{|決|き|めた}{|以上|いじょう|}は、どんなに{|誘|さそ|わ}れても{|絶対|ぜったい|}にそれを{|守|まも|りたい}。
+1329010,1169870,1254180,1155120,1541900,1386840,1327120
+Because I have already decided to quit drinking, I won’t drink no matter how much you insist.
+.................................
+ギターを{|習|なら|い}{|始|はじ|め}たが、どんなに{|練習|れんしゅう|}しても{|全然|ぜんぜん|}うまくならない。
+1333070,1307550,1559160,1395620
+I’ve started taking guitar lessons but I’m not getting any better no matter how much I practice.
+.................................
+どんなに|頑張|がんば|っても、|５|ご||０|ぜろ|{|点|てん|}しかとれなかった。
+1007860
+No matter how hard I tried, I never got more than 50 points.

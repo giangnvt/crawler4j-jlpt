@@ -1,0 +1,27 @@
+みんなに{|知|し|ら}れたからには、{|白状|はくじょう|}するほかはない。
+1420470,1475230
+Now that everyone knows, I have no choice but to confess.
+.................................
+バスがないので、{|歩|ある|いて}いく《よりほかしかたがない》。
+1514320
+Since there are no buses, I have no choice but to go on foot.
+.................................
+その{|人|ひと|}を{|雇|やと|うか}どうかは{|書類|しょるい|}だけでは{|決|き|め}られないから、{|結局|けっきょく|}は{|実際|じっさい|}に{|本人|ほんにん|}に{|会|あ|って}{|判断|はんだん|}するよりほかはない。
+1366410,1605570,1344200,1254180,1254730,1321110,1522750,1198180,1478620
+We can’t decide whether to hire him or not based on just documents. In the end we’ll have to meet him in person and decide after that.
+.................................
+わたしの{|不注意|ふちゅうい|}で{|壊|こわ|した}のだから、{|弁償|べんしょう|}するほかない。
+1493830,1199890,1512980
+I broke it because of my carelessness so I have no choice but to compensate.
+.................................
+{|雨|あめ|}が{|降|ふ|って}いるので、{|残念|ざんねん|だが}{|今日|きょう|}の{|遠足|えんそく|}は{|延期|えんき|}するほかない。
+1171900,1184450,1304680,1579110,1178260,1176430
+It’s raining so we have no choice but to postpone our trip today.
+.................................
+もう{|後|ご|}には|戻|もど|れない。{|前進|ぜんしん|}する《よりほかない》。
+1269320,1393350
+I can’t go back now. I have no choice but to move forward.
+.................................
+{|彼|かれ|}が{|生活|せいかつ|}に{|困|こま|って}いるというから、{お|金|かね|}を{|貸|か|したのに}、そのまま{|姿|すがた|}をけしてしまい、{|今|いま|}となってはあきらめる《よりほかない》。
+1000580,1378860,1289590,1001820,1411160,1307710,1288850
+He was having a hard time so I lent him some money but he just disappeared like that. Now that it’s come to this I’ll have no choice but to give up on him.

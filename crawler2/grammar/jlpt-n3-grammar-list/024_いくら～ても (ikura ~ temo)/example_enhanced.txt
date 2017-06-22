@@ -1,0 +1,31 @@
+いくら{|安|やす|くても}、{|買|か|いたくない}。
+1153670,1473740
+I don’t want to buy it no matter how cheap it is.
+.................................
+いくら{|好|す|き}でもコーラーをたくさん{|飲|の|むと}、|身体|しんたい|に{|悪|わる|いですよ}。
+1277450,1169870,1151260
+No matter how much you love Cocacola, it’s not good for your health if you drink too much.
+.................................
+いくら{|寝|ね|ても}、まだ{|眠|ねむ|いです}。
+1360010,1529330
+No matter how much I sleep, I’m still sleepy.
+.................................
+いくら{|調|しら|べても}わからなかったので、{|先生|せんせい|}に{|聞|き|いた}。
+1429060,1387990,1591110
+I could not understand no matter how much I studied so I asked my teacher.
+.................................
+{|彼女|かのじょ|}はいくら{|頼|たの|んでも}{|聞|き|いて}くれない。
+1483150,1548370,1591110
+No matter how much I beg she just won’t listen.
+.................................
+{|仕事|しごと|}だから、いくら{|嫌|きら|いでも}やらなければならない。
+1304970,1257240
+It’s my job so I must do it no matter how much I hate it.
+.................................
+{|必要|ひつよう|なので}、いくら{|高|たか|くても}{|買|か|います}。
+1487660,1283190,1473740
+I need it so I’ll buy it now matter how expensive it is.
+.................................
+{|給料|きゅうりょう|}がいくら{|上|あ|がっても}{|足|た|りない}。
+1230360,1352290,1404740
+No matter how much of a raise I get, it still won’t be enough.

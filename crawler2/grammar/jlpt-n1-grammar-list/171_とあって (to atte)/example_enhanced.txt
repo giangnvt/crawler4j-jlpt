@@ -1,0 +1,27 @@
+ヨンさまが{|日本|にっぽん|}にやってくる《とあって》、{|空港|くうこう|}{|内|ない|}で{|大勢|たいせい|}のファンが{|待|ま|ち|受|う|けて}いる。
+1582710,1245570,1457730,1414220,1410540
+Since Bae Yong Joon is coming to Japan, many fans are waiting at the airport.
+.................................
+セール《とあって》、この{|店|みせ|}は{|大勢|たいせい|}の{|客|きゃく|}で|混|こ|んでいる。
+1582120,1414220,1226630
+This store is packed with customers because of the sale.
+.................................
+{|久|ひさ|し|振|ぶ|り}の{|連休|れんきゅう|}《とあって》、{|行楽|こうらく|}{|地|ち|}はどこも{|人|ひと|}でいっぱいだった。
+1227370,1559380,1281870,1420730,1366410
+Because of the first consecutive holidays in a long time, all tourist resorts were full of people.
+.................................
+{|人気|にんき|}{|俳優|はいゆう|}がくる《とあって》、このイベントのチケットは{あっという|間|ま|に}{|売|う|り|切|き|れた}。
+1367010,1471970,1000390,1473880
+Since a popular actor is coming to this event, the tickets were sold out in the blink of an eye.
+.................................
+{|月曜日|げつようび|}の{|昼|ひる|}《とあって》、{|映画|えいが|}{|館|かん|}は{がら|空|あ|き}でした。
+1255890,1426250,1173720,1216210,2101980
+Since it was Monday at noon, the cinema was virtually empty.
+.................................
+{|十|じゅう|}{|年|ねん|}ぶりに{|再会|さいかい|}した《とあって》、{|二|に|}{|人|にん|}は{|深夜|しんや|}まで{|話|はな|して}いた。
+1579840,1468060,1292390,1461140,1366410,1362810,1562350
+Since they had not seen each other in 10 years, the two of them talked until late at night.
+.................................
+{|決勝|けっしょう|}{|戦|せん|}《とあって》、その|試合|しあい|の{|入場|にゅうじょう|}{|券|けん|}はすぐに{|売|う|り|切|き|れた}。
+1254320,1587140,1466360,1256730,1473880
+Since it’s the finals game, the tickets for that match were sold out instantly.

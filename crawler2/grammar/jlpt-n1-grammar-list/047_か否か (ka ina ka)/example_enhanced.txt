@@ -1,0 +1,15 @@
+いまいちど、{|被告|ひこく|}とハンニバル・レクターとが同{|一|いち|}{|人|にん|}《か|否|いな|か》ということを{|証人|しょうにん|}たちに{|尋問|じんもん|}したいのです。
+1484410,1160790,1366410,1351660,1369980
+I’d like to question the witnesses one more time to determine whether the defendant and Hannibal Lecter are the same person or not.
+.................................
+{|話|はなし|}を{|逸|そ|らすな}。いまはショーンという{|男子|だんし|}とデート{|中|ちゅう|}《か|否|いな|か》？
+1600900,1167650,1420070,1423310
+Don’t change the subject. Are you or are you not currently going out with a boy called Sean?
+.................................
+{|彼|かれ|}のアリバイは{|真|しん|}{|物|ぶつ|}《か|否|いな|か》、それを{|判断|はんだん|}しなければなりません。
+1000580,1363170,1502390,1478620
+I have to decide whether his alibi is genuine or not.
+.................................
+{|答|こた|えるべき}《か|否|いな|か》、{|彼|かれ|}はわたしの{|品定|しなさだ|め}をしているようだ。
+1449540,1000580,1805520
+I have the impression that he’s sizing me up, wondering whether to answer my question or not.

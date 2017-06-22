@@ -1,0 +1,15 @@
+{|国会|こっかい|}は、{|先例|せんれい|}《に|則|のっと|って》{|運営|うんえい|}されています。
+1286240,1388710,1172690
+The parliament operates in accordance with precedent.
+.................................
+{|古|ふる|く}からの{|伝統|でんとう|}《に|則|のっと|って》{|祭|まつ|り}が{|行|おこな|わ}れている。
+1265080,1442260,1604130,1589060
+The festivals are being held in accordance with old traditions.
+.................................
+ルール《に|則|のっと|って》{|行動|こうどう|}しましょう。
+1282100
+Let’s act in accordance with the rules.
+.................................
+スポーツマンシップ《に|則|のっと|って》|試合|しあい|をします。
+
+We’ll play this game in accordance with sportsmanship.

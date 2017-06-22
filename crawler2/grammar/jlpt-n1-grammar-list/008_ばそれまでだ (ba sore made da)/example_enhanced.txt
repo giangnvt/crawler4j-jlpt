@@ -1,0 +1,7 @@
+この{|機械|きかい|}は{|水|みず|}に{|弱|よわ|い}。{|水|みず|}がかかれ《ばそれまでだ》。
+1220810,1371260,1324520,1371260
+This machine is not water-resistant. It will be broken if you spill water on it.
+.................................
+どんなに{|美|うつく|しい}{|花|はな|}でも、{|散|ち|って}しまえ《ばそれまでだ》。
+1486360,1194500,1303490
+No matter how beautiful flowers are, when they start to scatter it’s over.

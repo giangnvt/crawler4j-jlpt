@@ -1,0 +1,15 @@
+{|入院|にゅういん|}したの《を|機|き|に》、お{|酒|さけ|}をやめた。
+1465720,1329010
+Being hospitalized was an opportunity for me to quit drinking.
+.................................
+{|転勤|てんきん|}《を|機|き|に》、{|何|なに|}か{|新|あたら|しい}{|技術|ぎじゅつ|}へチャレンジをしたいと{|考|かんが|えて}います。
+1441120,1577100,1361490,1225130,1281020
+I’m thinking of using this job transfer as an opportunity to try some new skill.
+.................................
+{|結婚|けっこん|}《を|機|き|に》{|新|あたら|しい}{|人生|じんせい|}を{|迎|むか|える}。
+1254790,1361490,1368370,1253190
+Getting married is an opportunity for me to enter a new phase in life.
+.................................
+{|当社|とうしゃ|}は{|十|じゅう|}{|周年|しゅうねん|}《を|機|き|に》新{|商品|しょうひん|}を{|発表|はっぴょう|}しました。
+1449100,1579840,1331240,1347310,1477840
+This company used their 10th anniversary as an opportunity to release a new product.

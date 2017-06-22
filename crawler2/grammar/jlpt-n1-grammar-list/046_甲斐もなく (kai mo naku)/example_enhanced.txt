@@ -1,0 +1,11 @@
+{|待|ま|った}《かいもなく》、{|彼|かれ|}はとうとう{|帰|かえ|って}こなかった。
+1410590,1000580,1221270
+Even though I waited, he didn’t return.
+.................................
+{|必死|ひっし|の}{|練習|れんしゅう|}の《かいもなく》、オリンピックの{|代表|だいひょう|}{|選手|せんしゅ|}には{|選|えら|ば}れなかった。
+1601890,1559160,1412170,1392250,1588730
+Even though I trained hard, I wasn’t chosen as a representative for the Olympics.
+.................................
+{|手術|しゅじゅつ|}の《かいもなく》、ガンが{|移転|いてん|}してしまった。
+1327790,1158390
+Even though I had an operation, the cancer spreaded to another place.

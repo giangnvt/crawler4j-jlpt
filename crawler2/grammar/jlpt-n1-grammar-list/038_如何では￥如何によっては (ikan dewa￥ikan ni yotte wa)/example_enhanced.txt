@@ -1,0 +1,19 @@
+{|出席|しゅっせき|}{|状況|じょうきょう|}・{|学業|がくぎょう|}{|成績|せいせき|}の《いかんでは》、{|奨学|しょうがく|}{|金|きん|}の{|支給|しきゅう|}を{|停止|ていし|}することもある。
+1339460,1356700,1206700,1375760,1799060,1181860,1310130,1434920
+Your scholarship may be suspended depending on your attendance rates and scholastic performance.
+.................................
+{|筆記|ひっき|}{|試験|しけん|}はパスした。{|明日|あした|}の{|面接|めんせつ|}の{|結果|けっか|}いかんで{|採用|さいよう|}が{|決|き|まる}そうだ。
+1487800,1312350,1584660,1533510,1254690,1294890,1591420
+I passed the written exam. It seems that they’ll decide to hire me or not depending on the result of tomorrow’s interview.
+.................................
+{|試験|しけん|}の{|結果|けっか|}《いかんでは》、{|卒業|そつぎょう|}できないこともある。
+1312350,1254690,1405890
+You may not be able to graduate depending on your test results.
+.................................
+{|成功|せいこう|}するかどうかはみんなの{|努力|どりょく|}《いかんだ》。
+1375690,1445130
+Your success depends on your hard work.
+.................................
+{|検査|けんさ|}の{|結果|けっか|}《いかんでは》、{|入院|にゅういん|}もありえます。
+1257890,1254690,1465720
+You may have to be hospitalized depending on the result of the exam.

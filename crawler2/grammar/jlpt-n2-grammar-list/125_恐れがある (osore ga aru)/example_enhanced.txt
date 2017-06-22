@@ -1,0 +1,31 @@
+{|早|はや|く}{|手術|しゅじゅつ|}しないと、{|手遅|ておく|れ}になる《おそれがある》。
+1404975,1327790,1328120
+If you don’t have the surgery quickly, it might be too late.
+.................................
+このテレビドラマは{|子供|こども|}に{|悪|わる|い}{|影響|えいきょう|}を{|与|あた|える}《おそれがある》。
+1307850,1151260,1173660,1544730
+There are fears that this TV drama will have bad effect on children.
+.................................
+{|大雨|おおあめ|}が{|降|ふ|ると}、あの{|橋|はし|}は{|壊|こわ|れる}《おそれがある》。
+1413070,1184450,1237410,1199900
+If it rains heavily, there are fears that that bridge will be broken.
+.................................
+この{|薬|くすり|}は{|副作用|ふくさよう|}の《おそれがある》ので、{|医者|いしゃ|}の{|指示|しじ|}に従って{|飲|の|んで}ください。
+1538160,1500400,1159980,1309800,1169870
+This medicine might have side effects, so please take it according to the doctor’s instructions.
+.................................
+こんな{|赤字|あかじ|}が{|続|つづ|くと}、この{|会社|かいしゃ|}は{|倒産|とうさん|}の《おそれがある》。
+1383440,1405790,1198550,1445890
+If this deficit continues, this company will face the risk of going bankrupt.
+.................................
+すぐに{|寮|りょう|}に{|戻|もど|らないと}、マネージャに{|捕|つか|まって}、|罰|ばっ|される《|恐|おそ|れがある》。
+1554230,1535880,1514110
+We need to get back to the dorm immediately or risk being caught and punished by the manager.
+.................................
+この{|病気|びょうき|}は{|伝染|でんせん|}のおそれがありません。
+1490230,1442110
+This disease is non-contagious.
+.................................
+{|盗|ぬす|み|聞|ぎ|き}される《|恐|おそ|れがある》ので、{|彼女|かのじょ|}にパーティーのことを{|話|はな|せなかった}。
+1643370,1483150,1562360
+He had been unable to tell her about the party for fear of being overheard.

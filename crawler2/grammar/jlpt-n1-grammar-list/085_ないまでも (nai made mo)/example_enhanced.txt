@@ -1,0 +1,31 @@
+プロにはなれ《ないまでも》、サッカーを{|続|つづ|けて}いくつもりだ。
+1405800
+I will continue playing soccer even if I can’t become a professional player.
+.................................
+{|全額|ぜんがく|}で《ないまでも》、せめて{|利子|りし|}ぐらいは{|払|はら|って}くれ。
+1394970,1549560,1501620
+Even if you can’t pay the full amount, at least pay the interest.
+.................................
+{|彼|かれ|}が{|犯人|はんにん|}だと{|断定|だんてい|}でき《ないまでも》、いろいろと{|怪|あや|しい}ところがある。
+1000580,1481630,1419740,1586700
+Even if we can’t conclude that he’s the criminal, there’s still something suspicious about him.
+.................................
+{|見舞|みま|い}にこ《ないまでも》{|電話|でんわ|}ぐらいはするものだ。
+1604690,1443840
+Even if you can’t visit him, at least give him a call.
+.................................
+{|昨日|きのう|}の{|演奏|えんそう|}は、{|最高|さいこう|}の{|出来|でき|}とは{|言|い|え}《ないまでも》、かなりよかったと{|思|おも|う}。
+1579260,1607520,1293850,1340420,1587040,1589350
+Even though I can’t say that yesterday’s performance was the best, I think it was pretty good.
+.................................
+{|結婚式|けっこんしき|}には{|出席|しゅっせき|}でき《ないまでも》、{お|祝|いわ|い}のプレゼントくらいは{|贈|おく|ろう}。
+1254810,1339460,1612770,1403550
+Even if we can’t attend their wedding, let’s give them wedding gifts.
+.................................
+プロのコックとは{|言|い|わ}《ないまでも》、{|彼|かれ|}の{|料理|りょうり|}の{|腕|うで|}はなかなかのものだ。
+1587040,1000580,1554310,1562850
+Even though we can’t call him a professional cook, he’s pretty good at cooking.
+.................................
+{|彼|かれ|}は{|彼女|かのじょ|}に{|完全|かんぜん|に}おちついたといえ《ないまでも》、{|少|すく|なくとも}{|完全|かんぜん|に}{|礼儀|れいぎ|}{|正|ただ|しい}{|言葉|ことば|}で{|話|はな|しかけました}。
+1000580,1483150,1211510,1595610,1211510,1557470,1376600,1264540,1562300
+He spoke to her, if not in terms of perfect composure, at least of perfect civility.

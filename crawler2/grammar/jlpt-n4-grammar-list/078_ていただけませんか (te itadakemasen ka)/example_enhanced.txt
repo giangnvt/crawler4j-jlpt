@@ -1,0 +1,23 @@
+わたしが{|日本語|にほんご|}で{|書|か|いた}{|作文|さくぶん|}を{|見|み|}《ていただけませんか》。
+1464530,1343950,1297960,1259290
+Could you please take a look at the essay I wrote in Japanese?
+.................................
+{|本日|ほんじつ|}は{|早退|そうたい|}させていただけませんでしょうか？
+1523110,1400310
+Could you please let me leave early today?
+.................................
+すみませんが、ちょっと{|静|しず|か}にしてもらえませんか。
+1381820
+Excuse me, could you be a little quiet?
+.................................
+{|明日|あした|}{|用事|ようじ|}があるので、{|仕事|しごと|}を{|休|やす|ま}せ《ていただけませんか》。
+1584660,1546300,1304970,1227560
+I have a business to take care of tomorrow. Could you please let me take a day off?
+.................................
+すみませんが、そこどいてもらえませんか？
+
+Excuse me, could you mind moving out of the way?
+.................................
+{|鉛筆|えんぴつ|}を{|忘|わす|れて}しまったんですが、ちょっと{|貸|か|して}もらえませんか。
+1178590,1519210,1411160
+I forgot my pencil. Could you lend me yours?

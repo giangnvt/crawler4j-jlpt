@@ -1,0 +1,31 @@
+{|彼|かれ|}は{|静|しず|かな}{|部屋|へや|}に{|隔離|かくり|}され、{|一|いち|}{|時間|じかん|}{|休|やす|んで}からテストを{|受|う|ける}《|始末|しまつ|だ》った。
+1000580,1381820,1499320,1206440,1160790,1315920,1227560,1329590
+He ended up being led away to a quiet room for an hour before he was ready to take the test.
+.................................
+うちの{|娘|むすめ|}は、ダイエットのしすぎで{|病気|びょうき|}になり、{|入院|にゅういん|}する《|始末|しまつ|だ》。
+1355930,1490230,1465720
+My daughter overdid her diet and became sick. She ended up being admitted to the hospital.
+.................................
+{|体|からだ|}を{|鍛|きた|えよう}とジョギングを{|始|はじ|めたが}、{|走|はし|り}すぎて{|膝|ひざ|}を{|痛|いた|めて}しまい、{|病院|びょういん|}に{|通|かよ|う}《|始末|しまつ|だ》。
+1409140,1419120,1307550,1402540,1487320,1432720,1490220,1432850
+I started jogging to train my body but I hurt my kneecap by running too much. In the end I had to go to the hospital.
+.................................
+あの{|人|ひと|}は{|遅刻|ちこく|}はする、{|約束|やくそく|}は{|忘|わす|れる}、ついには{|居眠|いねむ|り}{|運転|うんてん|}で{|事故|じこ|}を{|起|お|こす}《|始末|しまつ|だ》。
+1366410,1422050,1538130,1519210,1231890,1172830,1313850,1223660
+That guy always came late and forgot his promises. In the end, he caused an accident by falling asleep at the wheel.
+.................................
+{|弟|おとうと|}は{|昔|むかし|}から{|両親|りょうしん|}に{|手|て|}を{|焼|や|か}せていましたが、ついに{|家出|いえで|}をして、{|警察|けいさつ|}のやっかいにまでなる{|始末|しまつ|}です。
+1581930,1382370,1602710,1327190,1350600,1192030,1252390,1307620
+My brother was a handful to my parents in the past and in the end he ran away from home. He even ended up getting into trouble with the police.
+.................................
+ちょっと{|目|め|}を{|離|はな|したら}、この《|始末|しまつ|だ》。
+1604890,1550830
+This is what happened when I took my eyes off you.
+.................................
+{|兄|あに|}は{|借金|しゃっきん|}を{|返|かえ|す}ためと{|言|い|って}{|家|いえ|}にあるものを{お|金|かね|}に{|換|か|え}、{|母|はは|}のパソコンまで{|売|う|って}しまう《|始末|しまつ|だ》。
+1249900,1323940,1512130,1587040,1191730,1001820,1589780,1514990,1473950
+My big brother said that he needed to turn things in our house into money to pay back the debt, so he ended up selling my mother’s computer.
+.................................
+{|弟|おとうと|}は{お|金|かね|}がなくて、{|電気|でんき|}や{|水道|すいどう|}も{|止|と|め}られる《|始末|しまつ|だ》った。
+1581930,1001820,1443000,1371920,1310670
+I had no money so my electricity and water were cut off.

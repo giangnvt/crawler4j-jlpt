@@ -1,6 +1,6 @@
-Verb-ますstem + ような + Noun
-Verb-ますstem + ように + Verb
-なadjective + ような + Noun
-なadjective + ように + Verb
-いadjective (remove い) + ような + Noun
-いadjective (remove い) + ように + Verb
+Verb-ますstem + そうな + Noun
+Verb-ますstem + そうに + Verb
+なadjective + そうな + Noun
+なadjective + そうに + Verb
+いadjective (remove い) + そうな + Noun
+いadjective (remove い) + そうに + Verb

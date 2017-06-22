@@ -1,0 +1,19 @@
+{|毎日|まいにち|}そんなに{|遅|おそ|く}まで{|残業|ざんぎょう|}をし《ていては》{|体|からだ|}を{|壊|こわ|しますよ}。
+1524720,1421970,1304560,1409140,1199890
+If you keep working overtime every day like that, you’ll collapse.
+.................................
+そんなにたくさん{|冷|つめ|たい}ものを{|飲|の|んで}いては{|腹痛|はらいた|}になりますよ。
+1556730,1169870,1501230
+If you drink too much cold stuff like that, you’ll have a stomach ache.
+.................................
+こんなに{|物価|ぶっか|}が{|上昇|じょうしょう|}し《ていては》、{|生活|せいかつ|}が{|苦|くる|しく}なるばかりです。
+1502430,1353450,1378860,1244320
+If prices keep going up like this, our lives will only become harder.
+.................................
+そんな{|暗|くら|い}{|部屋|へや|}で{|本|ほん|}を{|読|よ|んで}いては{|目|め|}が{|悪|わる|く}なるから、{|電気|でんき|}をつけなさい。
+1154330,1499320,1522150,1456360,1604890,1151260,1443000
+If you keep reading books in such a dark room, your eyesight will get worse. Turn the light on.
+.................................
+そんなに{|毎日|まいにち|}{|甘|あま|い}ものばかり{|食|た|べ}《ていては》{|虫歯|むしば|}になりますよ。
+1524720,1213400,1358280,1604850
+If you keep eating sweet stuff every day like that, you’ll have decayed teeth.

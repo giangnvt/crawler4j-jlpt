@@ -1,0 +1,15 @@
+{|先生|せんせい|}がいないの《をいいことに》{|学校|がっこう|}をサボった。
+1387990,1206730
+I took advantage of the teacher’s absence and skipped school.
+.................................
+{|親方|おやかた|}はわしが{|年|とし|}とってるの《をいいことに》したんだ。
+1365360,1468060
+The masters took advantage of my age.
+.................................
+{|廊下|ろうか|}の{|突|つ|き}{|当|あ|たり}のドアが{|開|ひら|いて}いるの《をいいことに》、{|三|さん|}{|階|かい|}に{|抜|ぬ|け|出|だ|した}。
+1560670,1456590,1448780,1202440,1579350,1203020,1478220
+I took advantage of the open door at the end of the corridor to escape toward the third floor.
+.................................
+{|彼女|かのじょ|}はわたしたちが{|黙|だま|って}いるの《をいいことに》、{|恐|おそ|ろしい}{|警告|けいこく|}をひっきりなしに{|流|なが|し}{|続|つづ|け}た。
+1483150,1534930,1236690,1252360,1552120,1405800
+She took advantage of our silence to maintain an uninterrupted flow of dire warnings.

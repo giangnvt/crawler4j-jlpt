@@ -1,0 +1,19 @@
+もうすぐ、{|今年|ことし|}も{|終|お|わりですね}。《ところで》、{お|正月|しょうがつ|}はどうなさいますか？
+1579130,1589600,2826498
+The year will be over soon. By the way, do you have any plans for the new year?
+.................................
+ジョンさんのスピーチをお{|聞|き|き}するのが{|今|いま|}からとても{|楽|たの|しみです}。《ところで》、{その|後|ご|}は{|何|なに|}かご{|予定|よてい|}がありますか。
+1591110,1288850,1207270,1006860,1577100,1543240
+I’m really looking forward to hearing your speech. By the way, do you have any plans after that?
+.................................
+《ところで》、どこに{|行|い|く}んだい？
+1578850
+By the way, where are you going?
+.................................
+{|明日|あした|}、{|試験|しけん|}でしょ。|頑張|がんば|ってね。《ところで》、{|来週|らいしゅう|}の{|月曜日|げつようび|}は{|空|あ|い}てる？
+1584660,1312350,1548010,1255890,1586265
+The exam will be tomorrow, right? Do your best. By the way, will you be free next Monday?
+.................................
+《ところで》、{|罰則|ばっそく|}、どうだった？{|何|なに|}をさせられた？
+1478100,1577100
+By the way, how was your punishment? What did he make you do?

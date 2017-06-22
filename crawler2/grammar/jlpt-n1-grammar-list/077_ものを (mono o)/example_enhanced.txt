@@ -1,0 +1,27 @@
+{|一言|ひとこと|}{|声|ごえ|}をかけてくれれば{|手伝|てつだ|った}ものを。
+1575990,1380440,1328190
+If only you had call out to me, I would have helped you.
+.................................
+よせばいいものを、{|彼|かれ|}は{|社長|しゃちょう|}に{|文句|もんく|}を{|言|い|った}。そのため{|首|くび|}になった。
+1000580,1322920,1505260,1587040,1592270
+If only he had let it go. He complained to the president and got fired.
+.................................
+{|黙|だま|って}いればいいものを、つい{|余計|よけい|な}ことを{|言|い|って}しまった。
+1534930,1544090,1587040
+If only I had kept my mouth shut. I said unnecessary things.
+.................................
+わたしに{|連絡|れんらく|}してくれれば、{|迎|むか|え}に{|行|い|って}あげたものを。
+1559900,1253190,1578850
+If only you had contacted me, I would have come to pick you up.
+.................................
+ヘルスチェックを{|受|う|けて}いればすぐに{|治|なお|った}ものを。
+1329590,1599400
+If you had your health checked you would have been cured.
+.................................
+やればできるものを、どうしてやらないんですか。
+
+You can do it if you try, so why don’t you?
+.................................
+あなたが{お|金|かね|}にこまっていると{|知|し|って}いれば、{|何|なん|とか}{|力|ちから|}になったものを。
+1001820,1420470,1188420,1554820
+If I had known you had money problems, I would have helped you.

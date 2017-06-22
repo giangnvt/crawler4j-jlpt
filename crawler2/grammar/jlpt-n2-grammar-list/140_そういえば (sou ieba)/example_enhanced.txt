@@ -1,0 +1,15 @@
+《そういえば》、{|彼|かれ|}がどこに{|住|す|んで}いるのか{|聞|き|いた}ことがない。
+1000580,1334040,1591110
+Now that you mention it, I’ve never been told where he lives.
+.................................
+いい{|家|いえ|}ですね。《そういえば》、お{|兄|にい|さん}は{|建築|けんちく|}{|家|か|}さんでしたよね。
+1191730,1249910,1257500,1191730
+It’s a very nice house. Come to think of it, isn’t your big brother an architect?
+.................................
+まてよ、《そういえば》、なんか{|以前|いぜん|}に{|一|いち|}{|回|かい|}、そんなことを{|言|い|っ}てた。
+1155150,1160790,1199330,1587040
+Hang on, I think I remember you saying something about it once.
+.................................
+{|売|う|り|場|ば|}が|混|こ|んでいると{|思|おも|ったら}、チョコレートか。ああ、《そういえば》、{|明日|あした|}はバレンタインデーだった。
+1588550,1589350,1584660
+The shops are full of people who want to buy chocolate. Come to think about it, tomorrow is Valentine’s Day.

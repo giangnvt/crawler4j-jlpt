@@ -1,0 +1,15 @@
+{|彼|かれ|}に{|告白|こくはく|}しようかするまいか{|悩|なや|んで}いる。
+1000580,1286060,1469870
+I’m having a hard time deciding whether to tell him my feelings or not.
+.................................
+{|事実|じじつ|}を{|言|い|おうか}{|言|い|うまいか}と、{|廊下|ろうか|}を{|行|い|きつ}{|戻|もど|りつ}{|考|かんが|えた}。
+1313960,1587040,1587040,1560670,1578850,1535880,1281020
+I walked back and forth in the corridor, wondering whether I should tell the truth or not.
+.................................
+{|彼女|かのじょ|}と{|結婚|けっこん|}しようかするまいか{|悩|なや|んで}います。
+1483150,1254790,1469870
+I’m having a hard time deciding whether to marry her or not.
+.................................
+{|大学|だいがく|}に{|入|はい|ろうか}{|入|はい|るまいか}{|悩|なや|んだ}{|末|すえ|}、いい{|仕事|しごと|}が{|見|み|つかったので}{|就職|しゅうしょく|}することにした。
+1413240,1465580,1465580,1469870,1525230,1304970,1604550,1331670
+I was having a hard time deciding whether to go to college or not, but I found good a job and decided to work instead.

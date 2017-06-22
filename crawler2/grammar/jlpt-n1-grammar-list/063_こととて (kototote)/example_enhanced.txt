@@ -1,0 +1,27 @@
+{|急|きゅう|な}《こととて》、なにもご{|用意|ようい|}できなくて…
+1228560,1546220
+Because it was so sudden, I couldn’t prepare anything…
+.................................
+なにぶん{|新入|しんにゅう|}{|社員|しゃいん|}の《こととて》、{|失礼|しつれい|}があれば、どうかお|許|ゆる|しください。
+1362240,1322670,1320230
+Since I’m a new employee, please forgive me if I do something rude to you.
+.................................
+まだ{|検討|けんとう|}{|中|ちゅう|}の《こととて》、はっきりとしたお{|返事|へんじ|}はできません。
+1258000,1423310,1512220
+Since it’s still under review, we can’t give you an answer just yet.
+.................................
+{|何|なに|}も{|知|し|らぬ}《こととて》、{|失礼|しつれい|}をいたしました。
+1577100,1420470,1320230
+I did such a rude thing because I didn’t know anything.
+.................................
+{|引|ひ|っ|越|こ|して}きたばかりで、{|辺|あた|り}の{|様子|ようす|}も{|分|わ|からない}《こととて》、どうぞよろしく{お|願|ねが|い}いたします。
+1169340,1512080,1545820,1606560,2036870
+I just moved here so I don’t know much about this area. Please help me out.
+.................................
+{|連絡|れんらく|}もなしにお|客様|きゃくさま|がいらっしゃったが、{|急|きゅう|な}《こととて》、なんのおもてなしもできなかった。
+1559900,1228560
+The guests suddenly came without giving me a prior notice so I couldn’t receive them well.
+.................................
+{|年末年始|ねんまつねんし|}は{|休業|きゅうぎょう|}{|中|ちゅう|}の《こととて》、この{|時期|じき|}の{|依頼|いらい|}にはすぐに{|対応|たいおう|}ができません。
+2051780,1227700,1423310,1316040,1155710,1409840
+We can’t deal with such requests promptly during this new year holiday.

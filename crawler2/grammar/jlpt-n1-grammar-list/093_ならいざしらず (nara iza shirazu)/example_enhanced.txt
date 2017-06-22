@@ -1,0 +1,27 @@
+{|小学生|しょうがくせい|}《ならいざ|知|し|らず》、{|大学生|だいがくせい|}がこんな{|簡単|かんたん|な}{|計算|けいさん|}ができないなんて{|信|しん|じ}られない。
+1347880,1413260,1214330,1252140,1359040
+It’s acceptable if an elementary school student can’t do this simple calculation, but it’s unbelievable that a college student can’t even do it.
+.................................
+お{|泊|とま|り}{|客|きゃく|}《ならいざ|知|し|らず》、{|普通|ふつう|}|新宿|しんじゅく|{|通|どお|り}へおいでになるお|客様|きゃくさま|をわたしがお{|見|み|かけ}するようなことはございません。
+1897840,1226630,1497190,1432920,1604420
+I should not be likely to see any visitors that come to Shinjuku street, unless they were staying in the house.
+.................................
+{|安|やす|い}ホテル《ならいざ|知|し|らず》、{|一流|いちりゅう|}ホテルでこんなにサービスが{|悪|わる|い}なんて|許|ゆる|せない。
+1153670,1167270,1151260
+It may be okay for a cheap hotel to have such bad service, but not a first-class hotel.
+.................................
+{|祖父母|そふぼ|}の{|代|だい|}《ならいざ|知|し|らず》、{|今|いま|}の{|時代|じだい|}に「{|手|て|ぬぐい}」なんてあまり{|使|つか|わないよ}。
+1396850,1411560,1288850,1316300,1598400,1305990
+I don’t know about my grandparents’ era, but in this day and age we don’t use “hand towel” anymore.
+.................................
+{|新入|しんにゅう|}{|社員|しゃいん|}《ならいざ|知|し|らず》、{|入社|にゅうしゃ|}|１|いち||０|ぜろ|{|年|ねん|}にもなる{|君|きみ|}がこんなミスをするとは{|信|しん|じ}られない。
+1362240,1322670,1466260,1468060,1247250,1359040
+I can understand if a new employee make this kind of mistake, but I can’t believe that even a ten-year veteran like you did the same.
+.................................
+{|２|に|}|０|ぜろ|{|年|ねん|}{|前|まえ|}《ならいざ|知|し|らず》、{|今時|いまどき|}、テレビを{|持|も|って}いない{|人|ひと|}は{|珍|めずら|しい}。
+2728160,1468060,1392570,1289180,1315720,1366410,1431850
+I don’t know about 20 years ago, but it’s rare to find someone without a TV nowadays.
+.................................
+{|子供|こども|}《ならいざ|知|し|らず》、{|大人|おとな|}がこんなミスをするなんて、|許|ゆる|せない。
+1307850,1414170
+It’s acceptable for kids to make this kind of mistake, but not adults.

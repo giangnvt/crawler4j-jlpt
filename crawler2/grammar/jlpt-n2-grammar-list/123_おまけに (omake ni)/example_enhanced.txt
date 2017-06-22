@@ -1,0 +1,11 @@
+{|痛|いた|み}もないけど、《おまけに》なんにも{|感|かん|じないよ}。
+1587300,1212260
+It doesn’t hurt, but I can’t feel anything.
+.................................
+あのラーメン{|屋|や|}は{|高|たか|いし}まずい。《おまけに》サービスも{|悪|わる|い}。
+2082160,1283190,1151260
+The ramen in that shop is expensive and not good, not to mention the bad service.
+.................................
+《おまけに》{|宝|たから|}の{|地図|ちず|}を{|取|と|り|戻|もど|す}ことにも{|失敗|しっぱい|}した。
+1516160,1421290,1326940,1320140
+To make matter worse, I also failed to retrieve the treasure map.

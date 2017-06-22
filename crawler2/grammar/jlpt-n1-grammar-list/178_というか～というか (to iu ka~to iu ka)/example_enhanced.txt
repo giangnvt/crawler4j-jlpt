@@ -1,0 +1,15 @@
+{|一|いち|}{|人|にん|}であんな{|危険|きけん|な}{|場所|ばしょ|}へ{|行|い|く}とは、|無茶|むちゃ|というか、{|無知|むち|}というか、とにかくわたしには{|理解|りかい|}できない。
+1160790,1366410,1218560,1355850,1578850,1530630,1549910
+Going to such a dangerous place all by himself, I’m not sure if he’s stupid or what. I don’t understand him.
+.................................
+あなた、この{|特殊|とくしゅ|な}つながりというか、{|関係|かんけい|}というか、{|何|なに|}でもいいけど、{|好|す|きなの}？
+1454970,1215810,1577100,1277450
+Do you like having this special connection or relationship or whatever it is?
+.................................
+{|課長|かちょう|}に{|叱|しか|ら}れたとき、{|恥|は|ずかしい}というか、{|悔|くや|しい}というか、{|言|い|い|表|あらわ|せない}{|気持|きも|ち}だった。
+1195840,1319580,1421630,1592350,2502410,1591430
+Did I feel embarrassed or annoying? It’s hard to express how I felt when I was scolded by the section chief.
+.................................
+わたしは{|合格|ごうかく|}したが、{|親友|しんゆう|}は不{|合格|ごうかく|}だった。うれしいというか、{|残念|ざんねん|}というか、{|複雑|ふくざつ|な}{|気持|きも|ち}だ。
+1284600,1365410,1284600,1304680,1501350,1591430
+I passed the exam but my best friend failed. I’m not sure if I’m happy or not. I have mixed feelings.

@@ -1,0 +1,27 @@
+{|自信|じしん|}が《なくはない》が、ただちょっと{|緊張|きんちょう|}している。
+1317970,1241880
+It’s not that I have no confidence, I’m just a little nervous.
+.................................
+{|野菜|やさい|}を{|食|た|べ}《なくはない》んですが、あまり{|好|す|きでは}ありません。
+1537370,1358280,1277450
+It’s not that I don’t eat vegetables, I just don’t like it very much.
+.................................
+あの{|人|ひと|}の{|性格|せいかく|}を{|考|かんが|えると}、{|理解|りかい|}でき《なくはない》。
+1366410,1375290,1281020,1549910
+Judging from that person’s personality, I can somehow understand.
+.................................
+それとはまったくべつの{|原因|げんいん|}も{|考|かんが|え}られ《なくはない》のです。
+1261190,1281020
+There may be some very different cause.
+.................................
+{|結婚|けっこん|}するつもりは《なくもない》が、{|仕事|しごと|}が{|安定|あんてい|}してからのほうがいいだろう。
+1254790,1304970,1154120
+It’s not that I don’t want to get married, I just want to wait until I have a stable job.
+.................................
+あなたの{|気持|きも|ち}は{|分|わ|から}《なくもない》が、ただその{|行為|こうい|}には{|賛成|さんせい|}できない。
+1591430,1606560,1281830,1304200
+It’s not that I don’t understand how you feel, I just can’t agree with that kind of action.
+.................................
+それくらいのマンションなら、{|無理|むり|}すれば|買|か|え《なくもない》。
+1530970
+I may be able to buy such an apartment if I really put my mind to it.

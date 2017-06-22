@@ -1,0 +1,11 @@
+どういうつもりか{|知|し|らないが}、あなたは{|免職|めんしょく|}どころ《ではすまない》ぞ。
+1420470,1533220
+I don’t know what you think you’re doing, but it’s going to cost you one hell of a lot more than your job.
+.................................
+{|課長|かちょう|}である{|以上|いじょう|}、そんな{|大事|だいじ|な}ことを{|知|し|らなかった}《ではすまされない》だろう。
+1195840,1155120,1413940,1420470
+He’s the section chief, how could he not know about such an important thing?
+.................................
+この{|事件|じけん|}で、これまでのように{|単|たん|なる}{|不安|ふあん|}{|感|かん|}ではすまなくなり、パニック{|状態|じょうたい|}が{|起|お|こった}。
+1313830,1417020,1491150,1955970,1356730,1223680
+The incident turned what had hitherto been nervousness into real panic.

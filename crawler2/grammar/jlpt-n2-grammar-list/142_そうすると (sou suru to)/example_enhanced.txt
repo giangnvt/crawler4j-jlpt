@@ -1,0 +1,15 @@
+よく{|温泉|おんせん|}に{|入|はい|って}から{|石鹸|せっけん|}で{|体|からだ|}を{|洗|あら|う}{|人|ひと|}がいますが、《そうすると》、{|温泉|おんせん|}の{|成分|せいぶん|}が{|落|お|ちて}しまって、せっかく{|温泉|おんせん|}に{|来|き|たのに}、{|意味|いみ|}がありません。
+1183450,1465580,1382590,1409140,1390930,1366410,1183450,1375860,1548550,1183450,1547720,1156800
+There are people who use soap to wash their bodies after entering the hot spring. However, if they do so they will also wash away the component of the hot spring, which makes their trip there meaningless.
+.................................
+《そうすると》{|彼|かれ|}は、{|目|め|}の{|前|まえ|}にあったペンを{|手|て|}にとってなにやらメモし{|始|はじ|め}た。
+1000580,1604890,1392570,1327190,1307550
+Having done that, he grabbed the pen in front of him and started writing something.
+.................................
+《そうすると》、あなたもやはり{|医学|いがく|}のほうをおやりですか？
+1159810
+You are yourself, I presume, a medical man?
+.................................
+もともと{|家|いえ|}の{|周|まわ|り}じゅうに{|庭|にわ|}のスペースをとるのが{|夢|ゆめ|}だったんだ。でも、《そうすると》、{|家|いえ|}が{|小|ちい|さく}なりすぎて。
+1191730,1604290,1436130,1529410,1191730,1347750
+From the beginning I’ve always wanted to make a garden around the house. But if that was done, the house would be too small.

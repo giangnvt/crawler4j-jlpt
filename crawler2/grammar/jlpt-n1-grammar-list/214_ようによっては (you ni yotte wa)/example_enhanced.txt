@@ -1,0 +1,19 @@
+やり《ようによっては》、その{|仕事|しごと|}は{|簡単|かんたん|に}{|済|す|ませる}ことができる。
+1304970,1214330,1295040
+That job can be done easily depending on how you do it.
+.................................
+まだ{|見習|みなら|い}でバイト{|扱|あつか|い}だが、{|働|はたら|き}《ようによっては》{|正社員|せいしゃいん|}にしてやってもいい。
+1604640,1153430,1451150,1377330
+Though you’re still a part-time apprentice, I can make you a full-time employee depending on your performance.
+.................................
+この古{|新聞|しんぶん|}も、{|使|つか|い}《ようによっては》、{|何|なに|}かの{|役|やく|に|立|た|つ}のではないかと{|思|おも|いますが}。
+1362360,1305720,1577100,1537980,1589350
+I think these old newspapers can also be useful depending on how you use them.
+.................................
+{|考|かんが|え}《ようによっては》{|彼|かれ|}の{|人生|じんせい|}も{|幸|しあわ|せだった}と{|言|い|える}かもしれない。
+1281020,1000580,1368370,1594060,1008860
+Depending on how you look at it, his life might have been a happy one.
+.................................
+どんな{|道具|どうぐ|}も{|使|つか|い}《ようによっては》{|便利|べんり|}にも{|危険|きけん|}にもなります。
+1454180,1305990,1512610,1218560
+Tools can be useful or dangerous depending on how you use them.

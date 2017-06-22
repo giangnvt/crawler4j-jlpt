@@ -1,0 +1,63 @@
+{|先生|せんせい|}の{|話|はなし|}《によると》、{|来年|らいねん|}の{|大学|だいがく|}{|受験|じゅけん|}はもっと{|難|むずか|しく}なるらしい。
+1387990,1600900,1548220,1413240,1329740,1460850
+According to my teacher, next year’s university entrance exam is gonna be more difficult.
+.................................
+{|医者|いしゃ|}の{|話|はなし|}《によると》、この{|病気|びょうき|}はすぐによくなるというものではないらしい。
+1159980,1600900,1490230
+According to the doctor, this is not the kind of disease that will heal quickly.
+.................................
+{|天気|てんき|}{|予報|よほう|}《によると》、{|明日|あした|}は{|雪|ゆき|}が{|降|ふ|る}そうだ。
+1438690,1543630,1584660,1386500,1184450
+According to the weather forecast, it might snow tomorrow.
+.................................
+{|発表|はっぴょう|}《によると》、{|男女|だんじょ|}とも{|非常|ひじょう|に}{|長生|ながい|き}だそうです。
+1477840,1420110,1484920,1610940
+According to the publication, both men and women live extremely long.
+.................................
+この{|本|ほん|}《によると》、{|昔|むかし|}ここに{お|寺|てら|}があったということだ。
+1522150,1382370,2271230
+According to this book, there used to be a temple here.
+.................................
+{|新聞|しんぶん|}《によれば》、{|近頃|ちかごろ|}{|物価|ぶっか|}が{|上|あ|がる}そうです。
+1362360,1242300,1502430,1352290
+According to the news, it seems that prices will go up in the near future.
+.................................
+さっきの{|地震|じしん|}はテレビの{|速報|そくほう|}《によると》{|震度|しんど|}|５|ご|だそうだ。
+1421210,1405070,1366380
+According to the quick announcement on TV, the earthquake just now was 5 magnitude.
+.................................
+{|英|えい|}{|政府|せいふ|}《によると》この{|取引|とりひき|}は{|証明|しょうめい|}している。Brexitが{|海外|かいがい|}の{|投資|とうし|}{|家|か|}を{|敬遠|けいえん|}させているわけではないことを。
+1975410,1376070,1599120,1351680,1201260,1447230,1191730,1250730
+The British government says this deal proves that the Brexit vote is not scaring away international investors.
+.................................
+{|広|ひろ|まって}いた{|噂|うわさ|}《によると》、この{|男|おとこ|}は{|数|すう|}{ヶ月}{|前|まえ|}から{|異常|いじょう|な}{|妄想|もうそう|}に{|取|と|り}{|憑|つ|かれて}いたらしい。
+1278450,1172590,1419990,1005580,1194480,1392570,1157760,1584730,1326980,2220760
+Rumors has circulated that this man has suffered a psychotic break over the last few months.
+.................................
+サオリの{|言葉|ことば|}《によると》、これはずっと{|昔|むかし|}のある{|王国|おうこく|}の{|境界|きょうかい|}{|線|せん|}であったようだ。
+1264540,1382370,1181480,1235960,1391780
+Saori said that this had once been the boundary of a kingdom, but a very long time ago.
+.................................
+{|伝統|でんとう|}《によれば》、この{|図像|ずぞう|}は{|石|いし|}や{|木|き|}に{|刻|きざ|ま}れるか、{|絵|え|}として{|描|えが|か}れる。
+1442260,1956500,1382440,1534520,1285890,1202270,1583460
+Traditionally, the icon is sculpted in stone or wood or rendered as a drawing.
+.................................
+その{|記事|きじ|}《によると》、ダニエル・ウィルソンは{|一|いち|}{ヶ月}で{|新|あたら|しい}{|言語|げんご|}を{|習得|しゅうとく|}し、さらに{|解剖|かいぼう|}{|学|がく|}や{|生理学|せいりがく|}も{|独学|どくがく|}しているという。
+1223240,1160790,1194480,1361490,1264420,1594750,1199270,1955900,1645670,1455720
+According to the article, Daniel Wilson can master a new language in a month, and is teaching himself anatomy and physiology.
+.................................
+どうやら{|思|おも|って}いたよりも{|近|ちか|く}です。ＧＰＳ《によると》、ここからほんの{|十分|じゅうぶん|}くらいのところらしい。
+1589350,1242160,1335070
+It looks like I’m closer than I thought. The GPS says I’m only about ten minutes away.
+.................................
+これまで{|入手|にゅうしゅ|}した{|情報|じょうほう|}《によると》、あの{|男|おとこ|}に{|望|のぞ|み}のものを{|与|あた|え}られるのはあなただけなんだよ。
+1466290,1356370,1419990,1519620,1544730
+I have information suggesting you are the only one who can give that man what he wants.
+.................................
+{|一説|いっせつ|}《によると》、アジアでは{|十|じゅう|}{|四|よん|}{|世紀|せいき|}までにこうした{|秘密|ひみつ|}の{|友愛|ゆうあい|}{|組織|そしき|}のほとんどが{|消滅|しょうめつ|}したそうです。
+1164240,1579840,1579470,1373990,1484150,1539990,1397630,1350380
+According to some accounts, by the fourteenth century in Asia, almost all of these secret fraternities had become extinct.
+.................................
+ワタル《によると》、{|彼|かれ|}のクライアントはまだこの{|土地|とち|}に{|執着|しゅうちゃく|}があり、{|最初|さいしょ|}の{|付|つ|け|値|ね|}にいくらか{|上乗|うわの|せ}するかもしれないが、それほど{|大幅|おおはば|}には{|上|あ|げないだろう}と{|言|い|う}。
+1000580,1445470,1594740,1293990,1496010,1774950,1414870,1352320,1587040
+Wataru tells me that his clients are still very interested in this land, that they may come up a little, but he doubts they’ll go much higher.

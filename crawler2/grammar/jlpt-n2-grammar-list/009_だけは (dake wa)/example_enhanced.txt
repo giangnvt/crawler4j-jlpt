@@ -1,0 +1,15 @@
+{|覚|おぼ|える}《だけは》{|覚|おぼ|えた}のだから、{|後|のち|}は{|試験|しけん|}の{|日|ひ|}を{|待|ま|つ}だけだ。
+1206050,1206050,1269320,1312350,1463770,1410590
+I’ve remembered everything I could, so now all I have to do is wait for the day of the test to come.
+.................................
+わたしは{|助|たす|ける}《だけは》{|助|たす|けて}やったのだ。
+1344410,1344410
+I did all I could to help.
+.................................
+{|恋愛|れんあい|}のことは{|両親|りょうしん|}にも{|話|はな|す}《だけは》{|話|はな|しました}。
+1558800,1602710,1562350,1562350
+I told my parents everything about my love life.
+.................................
+{|指示|しじ|}のとおりにやる《だけは》やったが、いい{|結果|けっか|}が{|出|で|るか}どうか{|自信|じしん|}がない。
+1309800,1254690,1338240,1317970
+I followed the instruction and did all that I could, but I have no confidence that I’ll have good results.
