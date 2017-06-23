@@ -401,7 +401,11 @@
 		    <version>3.18.0</version>
 		    <scope>test</scope>
 		</dependency>
-				
+		<dependency>
+	     <groupId>com.google.code.externalsortinginjava</groupId>
+	     <artifactId>externalsortinginjava</artifactId>
+	     <version>[0.1.9,)</version>
+         </dependency>
 
 	</dependencies>
 

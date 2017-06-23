@@ -1,4 +1,4 @@
-Verb-casual + せいで
-いadjective + せいで
-なadjective + な/だったせいで
-Noun + のせいで
+Verb-casual + せいで/せいか
+いadjective + せいで/せいか
+なadjective + な/だった + せいで/せいか
+Noun + の + せいで/せいか

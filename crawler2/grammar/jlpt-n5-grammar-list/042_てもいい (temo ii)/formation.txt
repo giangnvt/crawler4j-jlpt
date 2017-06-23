@@ -1,5 +1,4 @@
 Verb-てform + もいい
-いadjective (remove い)
-+ てもいい
+いadjective (remove い) + てもいい
 なadjective + でもいい
 Noun + でもいい

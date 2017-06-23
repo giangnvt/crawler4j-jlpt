@@ -1,1 +1,5 @@
-Verb-stem + られる
+Group 1: change last vowel sound え-vowel sound +「る」
+Group 2: replace 「る」 with 「られる」
+Group 3: 
+「する」→「できる」
+「くる」→「こられる」
